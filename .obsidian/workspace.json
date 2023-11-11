@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "43f563b59654f259",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d8bc41c4547cc7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a38c02f4477f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal-development-environment/i3-wm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f015067e5c5a0849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59c79b6a9c27045",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2523a097845d2251",
+    "type": "split",
+    "children": [
+      {
+        "id": "645c3f19917366e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be6a339dabbafc5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bef4dca337b56016",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "957e4571969d9da3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f78b34c56e2ac02",
+    "type": "split",
+    "children": [
+      {
+        "id": "aecb2919ad6c91ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b96c5d746425de9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "personal-development-environment/i3-wm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef2663321cdb1ec1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "personal-development-environment/i3-wm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "388339a8929aeb78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d02f0d56e59fbc3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "personal-development-environment/i3-wm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be6a339dabbafc5d",
+  "lastOpenFiles": [
+    "personal-development-environment/PDE ( Personal Development Environment ).md",
+    "personal-development-environment/jetbrains-IDE.md",
+    "github.com/sugan0tech/config.md",
+    "github.com/sugan0tech",
+    "github.com",
+    "Untitled 1.md",
+    "Untitled.md",
+    "lazyNvim.md",
+    "personal-development-environment/LazyVim.md",
+    "personal-development-environment/dunst.md",
+    "personal-development-environment/neovim.md",
+    "personal-development-environment/Alacritty.md",
+    "personal-development-environment/i3-wm.md",
+    "personal-development-environment/Manjaro.md",
+    "personal-development-environment/nushell.md",
+    "personal-development-environment/bash.md",
+    "README.md"
+  ]
+}

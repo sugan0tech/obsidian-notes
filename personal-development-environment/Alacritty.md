@@ -1,0 +1,3 @@
+- A [[rust]]yfied application
+- GPU's accelerated ( much more faster )
+- offering for vim visual mode with `ctrl + shift + space` great for search, copy and selection.
