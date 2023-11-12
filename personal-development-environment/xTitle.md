@@ -1,0 +1,1 @@
+current session title fetcher for i3 stats
