@@ -1,4 +1,3 @@
-
 A fullstack microservice application, completely working with well established CI/CD pipeline.
 
 
