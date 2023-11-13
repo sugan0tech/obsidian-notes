@@ -38,21 +38,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "024ab7187141da21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "is.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "is.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "is.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "024ab7187141da21",
+  "active": "8364b1cb55ddfa1c",
   "lastOpenFiles": [
+    "personal-development-environment/Essentials-Cmds.md",
     "is.md",
     "test.md",
     "mein-enfarung/First note.md",
     "personal-development-environment/Alacritty.md",
-    "personal-development-environment/Essentials-Cmds.md",
     "personal-development-environment/greenclip.md",
     "Projects/Untitled-project.md",
     "java/java.md",
