@@ -35,3 +35,4 @@ A Full fledged management suite suitable for kickstarting any organisation like 
 - [ ] Feasablity of local microservice hosting
 - [ ] migration of old code base ( Event-Manager )
 - [ ] use NoSQL datastore for attandance thing
+

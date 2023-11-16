@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b87818573c05dc7",
+        "id": "2caff05339fb1aa8",
         "type": "tabs",
         "children": [
           {
-            "id": "a900d5503c1de44c",
+            "id": "26432012ec60d0a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/grpc.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/grpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/grpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "concepts/grpc.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,15 +147,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a900d5503c1de44c",
+  "active": "26432012ec60d0a4",
   "lastOpenFiles": [
+    "concepts/Turing Complete.md",
+    "Pasted image 20231116222703.png",
+    "concepts/grpc.md",
+    "Projects/OrgAssist.md",
     "2023-11-15.md",
     "Untitled 1.canvas",
-    "concepts/grpc.md",
     "Untitled.canvas",
     "Projects/Event-Manager.md",
     "concepts",
-    "Projects/OrgAssist.md",
     "www.github.com/sugan0tech/event-manager.md",
     "www.github.com/sugan0tech",
     "www.github.com",
@@ -190,7 +184,6 @@
     "personal-development-environment/dunst.md",
     "personal-development-environment/Pasted image 20231112115448.png",
     "personal-development-environment/i3-wm.md",
-    "README.md",
     "github.com/sugan0tech",
     "github.com"
   ]
