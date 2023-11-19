@@ -1,7 +1,7 @@
 #protocol 
 #TCP 
 
-To overcome the Pipelining issue in [[HTTP 1.1]] i uses a special system called ==streams== ( provides **multiplexing capablity** )and ==push==
+To overcome the Pipelining issue in [[HTTP 1.1]] i uses a special system called ==streams== ( provides **multiplexing capability** )and ==push==
 - Where each request is bind in the form of streams (assigned with a stream id).
 - so multiple streams can be passed in a single [[TCP]] connection.
 ```mermaid
@@ -58,6 +58,7 @@ graph RL
  ```mermaid
  sequenceDiagram
 	 Client->>Server: GET index.html (stream1)
+	 Note over Client,Server: Multiple response by push
 	 Server->>Client: res index.html (stream2)
 	 Server->>Client: res image.png (stream3)
 	 Server->>Client: res style.css (stream4)
