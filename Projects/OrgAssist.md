@@ -22,17 +22,25 @@ A Full fledged management suite suitable for kickstarting any organisation like 
 | Data Export | go |
 | Formalities Service | Spring / go / python |
 | Frontend Service | Svelte |
-| Api's | REST & gRPC |
-| CI/CD | Jenkins |
+| Api's | REST & ~~gRPC~~ & GraphQL |
+| CI/CD | Jenkins & sonarlint api |
+
 
 
 
 ## TODO's
+- [ ] svelte implementation for the frontend
 - [ ] is microservice possible with limited time constrains
 - [ ] usablity of Kafka 
+- [ ] Workaround on Websockets 
+- [ ] Workaround on GraphQL
 - [ ] redis needed?
 - [ ] Jenkins ( might not be possible to use a cloud suite )
 - [ ] Feasablity of local microservice hosting
 - [ ] migration of old code base ( Event-Manager )
-- [ ] use NoSQL datastore for attandance thing
+- [x] use NoSQL datastore for attandance thing
 
+
+
+gRPC status
+- since no support from the browser side, dropping the gRPC going for websockets and restapis 😥. MIght be usable in complete backend.

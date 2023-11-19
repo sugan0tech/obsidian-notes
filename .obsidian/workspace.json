@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2caff05339fb1aa8",
+        "id": "4afc6292bec18d68",
         "type": "tabs",
         "children": [
           {
-            "id": "26432012ec60d0a4",
+            "id": "99f6bc9a1de9335f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "concepts/gRPC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "concepts/gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "concepts/gRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "concepts/gRPC.md"
+              }
             }
           },
           {
@@ -147,43 +155,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26432012ec60d0a4",
+  "active": "be6a339dabbafc5d",
   "lastOpenFiles": [
-    "concepts/Turing Complete.md",
-    "Pasted image 20231116222703.png",
-    "concepts/grpc.md",
+    "concepts/UDP.md",
+    "concepts/HTTP 3.md",
+    "concepts/HTTP 2.md",
+    "concepts/TCP.md",
+    "concepts/QUIC.md",
+    "Pasted image 20231119205232.png",
+    "Pasted image 20231119205132.png",
+    "concepts/gRPC.md",
+    "concepts/HTTP 1.1.md",
+    "concepts/HTTP 1.md",
+    "test.md",
     "Projects/OrgAssist.md",
-    "2023-11-15.md",
+    "Projects/Magic shell.md",
+    "Projects/Event-Manager.md",
+    "personal-development-environment/Manjaro.md",
+    "personal-development-environment/nushell.md",
+    "personal-development-environment/Pasted image 20231112115448.png",
+    "personal-development-environment/PDE ( Personal Development Environment ).md",
+    "personal-development-environment/ranger.md",
+    "personal-development-environment/rofi.md",
+    "personal-development-environment/xorg-xandr.md",
+    "personal-development-environment/xTitle.md",
+    "personal-development-environment/Alacritty.md",
+    "personal-development-environment/bash.md",
+    "personal-development-environment/drun.md",
+    "personal-development-environment/dunst.md",
+    "personal-development-environment/Essentials-Cmds.md",
+    "personal-development-environment/feh.md",
+    "personal-development-environment/gdu.md",
+    "Pasted image 20231119190820.png",
+    "Pasted image 20231119190738.png",
+    "Pasted image 20231119185901.png",
+    "Pasted image 20231119185835.png",
+    "HTTP 1 demo.canvas",
+    "tools",
+    "Pasted image 20231119183035.png",
+    "Pasted image 20231116222703.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Projects/Event-Manager.md",
     "concepts",
-    "www.github.com/sugan0tech/event-manager.md",
     "www.github.com/sugan0tech",
     "www.github.com",
-    "Projects/Magic shell.md",
-    "personal-development-environment/Essentials-Cmds.md",
-    "test.md",
-    "personal-development-environment/PDE ( Personal Development Environment ).md",
-    "is.md",
-    "mein-enfarung/First note.md",
-    "personal-development-environment/Alacritty.md",
-    "personal-development-environment/greenclip.md",
-    "java/java.md",
     "java/spring",
     "java",
     "Projects",
-    "personal-development-environment/feh.md",
-    "github.com/sugan0tech/config.md",
-    "personal-development-environment/gdu.md",
-    "personal-development-environment/xTitle.md",
-    "personal-development-environment/ranger.md",
-    "personal-development-environment/xorg-xandr.md",
-    "personal-development-environment/drun.md",
-    "personal-development-environment/rofi.md",
-    "personal-development-environment/dunst.md",
-    "personal-development-environment/Pasted image 20231112115448.png",
-    "personal-development-environment/i3-wm.md",
     "github.com/sugan0tech",
     "github.com"
   ]
