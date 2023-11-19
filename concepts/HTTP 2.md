@@ -54,7 +54,15 @@ graph RL
 	id2 --> R1
 	id2 --> R2
 	id2 --> R3
-	
+ ```
+ ```mermaid
+ sequenceDiagram
+	 Client->>Server: GET index.html (stream1)
+	 Server->>Client: res index.html (stream2)
+	 Server->>Client: res image.png (stream3)
+	 Server->>Client: res style.css (stream4)
+	 Server->>Client: res index.js (stream15
+	 
 ```
 - The default port is changed to ==443 ( with TLS )== instead of 80
 - No the headers also getting compressed
