@@ -1,7 +1,7 @@
 #protocol 
 #TCP 
 
-To overcome the Pipelining issue in [[HTTP 1.1]] i uses a special system called ==streams== and ==push==
+To overcome the Pipelining issue in [[HTTP 1.1]] i uses a special system called ==streams== ( provides **multiplexing capablity** )and ==push==
 - Where each request is bind in the form of streams (assigned with a stream id).
 - so multiple streams can be passed in a single [[TCP]] connection.
 ```mermaid
@@ -57,6 +57,8 @@ graph RL
 	
 ```
 - The default port is changed to ==443 ( with TLS )== instead of 80
+- No the headers also getting compressed
+
 
 
 Cons:
