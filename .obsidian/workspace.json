@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d5398477bdcd18f",
+        "id": "5f414e1dbc12da8d",
         "type": "tabs",
         "children": [
           {
-            "id": "83dace548634f483",
+            "id": "38b66812277a6c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/UDP.md",
+                "file": "tools/svelte.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/UDP.md",
+                "file": "tools/svelte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/UDP.md",
+                "file": "tools/svelte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/UDP.md"
+                "file": "tools/svelte.md"
               }
             }
           },
@@ -156,8 +156,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "83dace548634f483",
+  "active": "be6a339dabbafc5d",
   "lastOpenFiles": [
+    "Projects/OrgAssist.md",
+    "concepts/GraphQL.md",
+    "concepts/UDP.md",
     "concepts/Turing Complete.md",
     "concepts/TCP.md",
     "concepts/QUIC.md",
@@ -166,13 +169,10 @@
     "concepts/HTTP 1.1.md",
     "concepts/HTTP 1.md",
     "concepts/gRPC.md",
-    "concepts/GraphQL.md",
     "tools/svelte.md",
-    "concepts/UDP.md",
     "Pasted image 20231119205232.png",
     "Pasted image 20231119205132.png",
     "test.md",
-    "Projects/OrgAssist.md",
     "Projects/Magic shell.md",
     "Projects/Event-Manager.md",
     "personal-development-environment/Manjaro.md",
