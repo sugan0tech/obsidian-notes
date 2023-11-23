@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f414e1dbc12da8d",
+        "id": "e0669ed8651dc1aa",
         "type": "tabs",
         "children": [
           {
-            "id": "38b66812277a6c60",
+            "id": "424bf30c87874bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/svelte.md",
+                "file": "test - presudio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/svelte.md",
+                "file": "test - presudio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/svelte.md",
+                "file": "test - presudio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/svelte.md"
+                "file": "test - presudio.md"
               }
             }
           },
@@ -156,9 +156,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "be6a339dabbafc5d",
+  "active": "424bf30c87874bc6",
   "lastOpenFiles": [
     "Projects/OrgAssist.md",
+    "mein-enfarung/SQL - thing.md",
+    "Pasted image 20231122194700.png",
+    "concepts/gRPC.md",
+    "tools/svelte.md",
     "concepts/GraphQL.md",
     "concepts/UDP.md",
     "concepts/Turing Complete.md",
@@ -168,11 +172,9 @@
     "concepts/HTTP 2.md",
     "concepts/HTTP 1.1.md",
     "concepts/HTTP 1.md",
-    "concepts/gRPC.md",
-    "tools/svelte.md",
     "Pasted image 20231119205232.png",
     "Pasted image 20231119205132.png",
-    "test.md",
+    "test - presudio.md",
     "Projects/Magic shell.md",
     "Projects/Event-Manager.md",
     "personal-development-environment/Manjaro.md",
@@ -185,8 +187,6 @@
     "personal-development-environment/xTitle.md",
     "personal-development-environment/Alacritty.md",
     "personal-development-environment/bash.md",
-    "personal-development-environment/drun.md",
-    "personal-development-environment/dunst.md",
     "Pasted image 20231119190820.png",
     "Pasted image 20231119190738.png",
     "Pasted image 20231119185901.png",

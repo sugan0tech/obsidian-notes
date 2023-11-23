@@ -44,3 +44,10 @@ A Full fledged management suite suitable for kickstarting any organisation like 
 
 gRPC status
 - since no support from the browser side, dropping the gRPC going for websockets and restapis 😥. MIght be usable in complete backend.
+
+
+
+
+### cool stuffs
+1. random string background for page  + addition gradient map[https://www.youtube.com/watch?v=oIm6qKTtmH4]
+2. 
