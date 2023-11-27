@@ -116,10 +116,14 @@ A well designed ui framework :)
 <p>{emoji} = {name}</p>
 ```
  7. events
-```html
+```jsx
 <button on:click|once = { () => alert('clicked')} ( also be passed as array func (inline))
 	click me
 </button> 
+// some interesting events
+self // ( only if event.target is the element itself)
+trusted // only triggers if the person interacted not a js code
+
 ```
 
 
