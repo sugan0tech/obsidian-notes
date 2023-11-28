@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "tools/web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "507053180917b499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "tools/svelte.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,14 +169,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "be6a339dabbafc5d",
+  "active": "507053180917b499",
   "lastOpenFiles": [
-    "test - presudio.md",
     "Projects/OrgAssist.md",
+    "tools/web.md",
+    "tools/svelte.md",
+    "test - presudio.md",
     "mein-enfarung/SQL - thing.md",
     "Pasted image 20231122194700.png",
     "concepts/gRPC.md",
-    "tools/svelte.md",
     "concepts/GraphQL.md",
     "concepts/UDP.md",
     "concepts/Turing Complete.md",
