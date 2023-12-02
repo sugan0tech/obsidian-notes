@@ -72,3 +72,41 @@ graph RL
 
 Cons:
 - Even though I have some advantage, since we are using additional streams. There is a additional ==parsing== process in the protocol level (i.e each stream has to be parsed now)
+
+
+
+## Test sample using express
+- requires [[mkcert]] to emulate the TLS for localhost 
+```js
+const express = require("express");
+const http2 = require("http2");
+const http2Express = require("http2-express-bridge");
+const { readFileSync } = require("fs");
+
+const app = http2Express(express);
+
+app.get("/express", (req, res) => {
+res.send("hello World");
+});
+
+const options = {
+key: readFileSync("/home/{user}/localhost-key.pem"),
+cert: readFileSync("/home/{user}/localhost.pem"),
+allowHTTP1: true,
+};
+
+const server = http2.createSecureServer(options, app);
+server.listen(3001);
+```
+- curl response
+```bash
+curl -I https://localhost:3001/express
+
+12/02/23 18:23:41 PM
+HTTP/2 200
+x-powered-by: Express with http2-express-bridge
+content-type: text/html; charset=utf-8
+content-length: 11
+etag: W/"b-IsIZZI8Axh5bOxvYH/qOd2fi48U"
+date: Sat, 02 Dec 2023 12:53:41 GMT
+```
