@@ -1,4 +1,4 @@
-#protocol 
+ning the code snippets throughout this guide in an #protocol 
 #TCP 
 
 To overcome the Pipelining issue in [[HTTP 1.1]] i uses a special system called ==streams== ( provides **multiplexing capability** )and ==push==
