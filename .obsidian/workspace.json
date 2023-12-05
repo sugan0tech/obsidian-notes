@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "95bca3c792118961",
+        "id": "abe813a96df6c9f4",
         "type": "tabs",
         "children": [
           {
-            "id": "3481b7aa77b10157",
+            "id": "1eb1aa49804fcf91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languages/OCaml/intro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages/OCaml/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "languages/OCaml/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "languages/OCaml/intro.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "be6a339dabbafc5d",
+  "active": "1eb1aa49804fcf91",
   "lastOpenFiles": [
+    "personal-development-environment/Alacritty.md",
     "languages/OCaml/intro.md",
     "languages/OCaml",
     "languages",
@@ -191,7 +184,6 @@
     "personal-development-environment/PDE ( Personal Development Environment ).md",
     "personal-development-environment/ranger.md",
     "personal-development-environment/rofi.md",
-    "personal-development-environment/xorg-xandr.md",
     "Pasted image 20231119190820.png",
     "Pasted image 20231119190738.png",
     "Pasted image 20231119185901.png",

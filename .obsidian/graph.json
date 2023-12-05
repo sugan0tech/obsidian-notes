@@ -2,21 +2,36 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:personal-development-environment  ",
+      "color": {
+        "a": 1,
+        "rgb": 5996498
+      }
+    },
+    {
+      "query": "path:concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 2.03958333333333,
-  "lineSizeMultiplier": 4.13229166666667,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 2.396875,
+  "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4233934199823774,
+  "scale": 0.7023319615912202,
   "close": true
 }
