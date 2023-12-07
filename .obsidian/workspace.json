@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "abe813a96df6c9f4",
+        "id": "4172a476f3d93fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb1aa49804fcf91",
+            "id": "960c821a37d2145b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "personal-development-environment/Essentials-Cmds.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal-development-environment/Essentials-Cmds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "personal-development-environment/Essentials-Cmds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal-development-environment/Essentials-Cmds.md"
+              }
             }
           },
           {
@@ -148,13 +156,34 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1eb1aa49804fcf91",
+  "active": "960c821a37d2145b",
   "lastOpenFiles": [
+    "languages/java/key prompters.md",
+    "languages/java/java.md",
+    "concepts/web/GraphQL.md",
+    "concepts/web/gRPC.md",
+    "concepts/web/HTTP 1.1.md",
+    "concepts/web/HTTP 1.md",
+    "concepts/optimisations",
+    "concepts/web",
+    "languages/kotlin",
+    "personal-development-environment/Essentials-Cmds.md",
+    "personal-development-environment/gdu.md",
+    "personal-development-environment/feh.md",
+    "personal-development-environment/greenclip.md",
+    "personal-development-environment/i3-wm.md",
+    "personal-development-environment/LazyVim.md",
+    "personal-development-environment/jetbrains-IDE.md",
+    "personal-development-environment/Manjaro.md",
+    "personal-development-environment/neovim.md",
+    "personal-development-environment/nushell.md",
+    "personal-development-environment/Pasted image 20231112115448.png",
+    "personal-development-environment/PDE ( Personal Development Environment ).md",
     "personal-development-environment/Alacritty.md",
     "languages/OCaml/intro.md",
     "languages/OCaml",
     "languages",
-    "concepts/HTTP 2.md",
+    "concepts/web/HTTP 2.md",
     "dev-tools/mkcert.md",
     "dev-tools",
     "tools/web.md",
@@ -163,27 +192,9 @@
     "conflict-files-obsidian-git.md",
     "Pasted image 20231119183035.png",
     "Projects/OrgAssist.md",
-    "mein-enfarung/SQL - thing.md",
     "Pasted image 20231122194700.png",
-    "concepts/gRPC.md",
-    "concepts/GraphQL.md",
-    "concepts/UDP.md",
-    "concepts/Turing Complete.md",
-    "concepts/TCP.md",
-    "concepts/QUIC.md",
-    "concepts/HTTP 3.md",
-    "concepts/HTTP 1.1.md",
-    "concepts/HTTP 1.md",
     "Pasted image 20231119205232.png",
     "Pasted image 20231119205132.png",
-    "Projects/Magic shell.md",
-    "Projects/Event-Manager.md",
-    "personal-development-environment/Manjaro.md",
-    "personal-development-environment/nushell.md",
-    "personal-development-environment/Pasted image 20231112115448.png",
-    "personal-development-environment/PDE ( Personal Development Environment ).md",
-    "personal-development-environment/ranger.md",
-    "personal-development-environment/rofi.md",
     "Pasted image 20231119190820.png",
     "Pasted image 20231119190738.png",
     "Pasted image 20231119185901.png",
@@ -195,9 +206,6 @@
     "Untitled.canvas",
     "concepts",
     "www.github.com/sugan0tech",
-    "www.github.com",
-    "java/spring",
-    "languages/java",
-    "Projects"
+    "www.github.com"
   ]
 }

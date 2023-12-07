@@ -24,7 +24,7 @@ git stash pop stash@{id}
 ```
 
 
-## Autio utility
+## Audio utility
 1. Getting the audio output list
 ```shell
 pactl list sinks short
@@ -43,4 +43,17 @@ xrandr --output DP-2 --brightness .6
 ## Disabling Linux Bell
 ```shell
 xset b off
+```
+
+
+## Java versioning
+```bash
+## for arch we use  archlinux-java
+archlinux-java status
+sudo archlinux-java set java-21-openjdk
+```
+
+## Installing via directly downloaded pkg
+```bash
+sudo pacman -U --noconfirm your-package.pkg.tar.zst
 ```
