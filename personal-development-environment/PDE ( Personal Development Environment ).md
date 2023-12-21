@@ -19,7 +19,10 @@ Core stuff:
  5. Editor
 	 - [[neovim]]
 	 - [[jetbrains-IDE]]
-  
+  6. Resource monitoring
+	- [[htop]]  
+	- [[nvtop]] // specifically for nvidia gpu
+ 
 
 General ones:
 - [[dunst]]
