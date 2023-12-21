@@ -19,3 +19,7 @@ note for leader will be using ` ` space
 NeoTree
 `:Neotree`
 `:Neotree filesystem reveal right`
+
+
+## key bindings
+`=` - for indentations

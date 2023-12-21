@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "ee8c1fb763de9c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal-development-environment/lsp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6d6608a6432b4b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal-development-environment/lsp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "94ae050d4b8347d5",
             "type": "leaf",
             "state": {
@@ -31,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-development-environment/Nvim Configs.md",
+                "file": "personal-development-environment/Nvim Short cuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-development-environment/Nvim Configs.md",
+                "file": "personal-development-environment/Nvim Short cuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-development-environment/Nvim Configs.md"
+                "file": "personal-development-environment/Nvim Short cuts.md"
               }
             }
           },
@@ -169,10 +192,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "94ae050d4b8347d5",
+  "active": "3dbc12b4e50c44d8",
   "lastOpenFiles": [
-    "personal-development-environment/Nvim Short cuts.md",
     "personal-development-environment/Nvim Configs.md",
+    "personal-development-environment/lsp.md",
+    "concepts/web/HTTP 2.md",
+    "personal-development-environment/Nvim Short cuts.md",
+    "concepts/web/HTTP 1.md",
     "personal-development-environment/neovim.md",
     "personal-development-environment/PDE ( Personal Development Environment ).md",
     "tools/spring/controllers.md",
@@ -184,7 +210,6 @@
     "concepts/web/GraphQL.md",
     "concepts/web/gRPC.md",
     "concepts/web/HTTP 1.1.md",
-    "concepts/web/HTTP 1.md",
     "concepts/optimisations",
     "concepts/web",
     "languages/kotlin",
@@ -201,11 +226,9 @@
     "languages/OCaml/intro.md",
     "languages/OCaml",
     "languages",
-    "concepts/web/HTTP 2.md",
     "dev-tools/mkcert.md",
     "dev-tools",
     "tools/web.md",
-    "tools/svelte.md",
     "Pasted image 20231119183035.png",
     "Pasted image 20231122194700.png",
     "Pasted image 20231119205232.png",

@@ -6,6 +6,10 @@ vim.cmd("set tabstop=2")
 vim.cmd("set softtabstop=2")
 vim.cmd("set shiftwidth=2")
 ```
+- for numbering
+```lua
+vim.cmd("set relativenumber")
+```
 - lazy.nvim integration
 ```lua
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
@@ -74,3 +78,4 @@ return {
 	 - for file explorer 
 - lualine
 	- custome status bar for nvim
+ - [[lsp]]
