@@ -8,7 +8,7 @@ vim.cmd("set shiftwidth=2")
 ```
 - for numbering
 ```lua
-vim.cmd("set relativenumber")
+vim.cmd("set nu rnu")
 ```
 - lazy.nvim integration
 ```lua
@@ -79,3 +79,9 @@ return {
 - lualine
 	- custome status bar for nvim
  - [[lsp]]
+ - none-ls
+ - nvim-cmp
+ - luasnip
+	 - for code snippets and autocompletions
+- surround
+- telescope

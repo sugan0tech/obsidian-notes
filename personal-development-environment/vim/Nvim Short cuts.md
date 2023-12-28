@@ -61,3 +61,9 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 `s` for horizontal split
 `v` for vertical split
 `Ctrl+N` for new file
+
+snippets
+`<C-k>` to move up
+`<C-j>` to move down
+`<C-Space` to select 
+`<Enter>` initially or `<C-e>`to cancel the snippet
