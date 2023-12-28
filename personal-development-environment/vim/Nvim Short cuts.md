@@ -2,6 +2,15 @@
 ## Macros
 - we can record set of key action and execute it later press `qq` in normal mode to enter macro recording, then after executing those commands and enter `q` to stop recording .
 - to redo those macro use `@q` to execute that macro
+- `Q` 
+	- in visual `q` macro to multiple selected lines
+	- in normal will replay and goes down to new line
+ ```lua
+vim.keymap.set('n', 'Q', "@qj") -- applying macro and enter new line
+vim.keymap.set('x', 'Q', ':norm @q<CR>') -- applying macro to multiple lines
+
+```
+- we can also do recursive macro ( ==just record a macro inside it's record==)
 
 
 ## lazy.nvim cmd
@@ -37,6 +46,10 @@ with multiple files
 `"+y` -> copy to clipboard
 `<leader>y` -> custom just space + y for my scenaro
 `<leader>p` -> for paste
+```lua
+vim.keymap.set('v', '<leader>y', '"+y')
+vim.keymap.set('v', '<leader>p', '"+p')
+```
 
 
 ## key bindings
