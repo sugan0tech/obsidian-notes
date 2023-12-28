@@ -1,4 +1,5 @@
 
+#commands
 ## Git
 1. merging head with previous commits
 ```bash
@@ -22,7 +23,17 @@ git stash save "with custom name"
 git stash list
 git stash pop stash@{id}
 ```
+5. force pushing
+```bash
+git push --force--with lease
+```
+6. some alias in `.gitconfig`
+```bash
+[alias]
+  graph = log --all --decorate --oneline --graph
+  chart = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)'
 
+```
 
 ## Audio utility
 1. Getting the audio output list
