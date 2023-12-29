@@ -23,7 +23,7 @@ git stash save "with custom name"
 git stash list
 git stash pop stash@{id}
 ```
-5. force pushing
+5. force pushing, check for any others commit in remote branch
 ```bash
 git push --force--with lease
 ```

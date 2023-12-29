@@ -29,6 +29,7 @@ note for leader will be using ` ` space
 ## NeoTree
 `:Neotree`
 `:Neotree filesystem reveal right`
+`P` for preview
 
 
 ## Surround
@@ -52,6 +53,13 @@ vim.keymap.set('v', '<leader>p', '"+p')
 ```
 
 
+## comments
+- in visual
+	- `gc` makes as line comment
+	- `gb` makes as block comment
+- in normal 
+	- `gcc` makes current line as line comment
+	- `gbc` makes current line as block comment
 ## key bindings
 `=` - for indentations
 
@@ -62,8 +70,9 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 `v` for vertical split
 `Ctrl+N` for new file
 
-snippets
+## snippets
 `<C-k>` to move up
 `<C-j>` to move down
 `<C-Space` to select 
 `<Enter>` initially or `<C-e>`to cancel the snippet
+
