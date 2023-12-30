@@ -1,4 +1,13 @@
 #shortcuts
+
+## Edits
+- `i` for insert
+- `esc` for normal
+- `v` for visual
+- `c` for clear
+- `d` for delete
+- `y` for yank ( copy )
+- `f` for finding withing a line and jumps to it
 ## Macros
 - we can record set of key action and execute it later press `qq` in normal mode to enter macro recording, then after executing those commands and enter `q` to stop recording .
 - to redo those macro use `@q` to execute that macro
@@ -27,8 +36,8 @@ note for leader will be using ` ` space
 
 
 ## NeoTree
-`:Neotree`
-`:Neotree filesystem reveal right`
+`<Leader>n`
+`<Leader>fs`
 `P` for preview
 
 
@@ -60,6 +69,7 @@ vim.keymap.set('v', '<leader>p', '"+p')
 - in normal 
 	- `gcc` makes current line as line comment
 	- `gbc` makes current line as block comment
+	
 ## key bindings
 `=` - for indentations
 
@@ -76,3 +86,32 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 `<C-Space` to select 
 `<Enter>` initially or `<C-e>`to cancel the snippet
 
+## code commands
+- LSP ones
+	- `gi` for go to code implementation
+	- `gr` for go to references
+	- `gd` for go to definition
+	- `<Leader>ca` for code actions
+	- `K` for list
+## code markings
+- Upper case for global lower case for buffers
+- `mx` mark line as x
+- `dmx` demark just removes the mark x
+- `dm.` removes current line mark
+- `'x` jumps to x
+- `:marks a-zA-z` for showing those given marks
+
+## Git
+### Lazy git
+- need to install manually via  a package manager
+	- `yay -S lazygit`
+- `<Leader>gg` for the window
+### blame
+- `<Leader>gm` for `:GitMessage`
+
+## File level edits
+-  uses oil plugin we can edit files as a normal buffer
+-  `-` opens current parent direction in the buffer
+- `_` opens current working directory
+- `g.` toggeling hidden
+- `g\\` toggels trash ==for trash need to configure==
