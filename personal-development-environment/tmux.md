@@ -14,14 +14,14 @@
 - `<Leader>%` to split vertically
 - to move `<Leader>}` 
 - `<Leader> ` to toggle between different layouts
-- `<Leader>B + arrows` to resize current panel
-- `<Leader>B + q + num` to select given indexed panel
+- `<Leader>B + arrows` to resize current pane
+- `<Leader>B + q + num` to select given indexed pane
 
 ### windows
 - `<Leader><num>` to jump to window
 - `<Leader>c` to create new session
 - `<Leader>:` give cmd to rename-window or `<Leader>,` to rename
-- `<Leader><Alt><1-5>` rearrange the panels in a window
+- `<Leader><Alt><1-5>` rearrange the pane in a window
 
 ### session
 - `<Leader>d` to exit session

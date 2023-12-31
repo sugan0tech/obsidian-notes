@@ -113,5 +113,9 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 -  uses oil plugin we can edit files as a normal buffer
 -  `-` opens current parent direction in the buffer
 - `_` opens current working directory
-- `g.` toggeling hidden
-- `g\\` toggels trash ==for trash need to configure==
+- `g.` toggling hidden
+- `g\\` toggles trash ==for trash need to configure==
+## search & replacement
+- `*` for exact match of that word
+- `g*` for partial search like occurrence in a word
+- `:/term\c` for all cases `\C` for case sensitivity

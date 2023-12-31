@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-development-environment/tmux.md",
+                "file": "personal-development-environment/vim/Nvim Short cuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-development-environment/tmux.md",
+                "file": "personal-development-environment/vim/Nvim Short cuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-development-environment/tmux.md"
+                "file": "personal-development-environment/vim/Nvim Short cuts.md"
               }
             }
           },
@@ -193,10 +193,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fd82ee8a5ed7cb9c",
+  "active": "1fa3ab8e41a31a3e",
   "lastOpenFiles": [
-    "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/tmux.md",
+    "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/vim/Nvim Configs.md",
     "personal-development-environment/Essentials-Cmds.md",
     "personal-development-environment/vim/lsp.md",
