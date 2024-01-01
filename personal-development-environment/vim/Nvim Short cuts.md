@@ -119,3 +119,8 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 - `*` for exact match of that word
 - `g*` for partial search like occurrence in a word
 - `:/term\c` for all cases `\C` for case sensitivity
+- using `spectre`
+- `<leader>sg` to spectre global file
+- `<leader>sc` to spectre current file
+- `dd` to toggle selected files
+- `<leader>c` to confirm regrex
