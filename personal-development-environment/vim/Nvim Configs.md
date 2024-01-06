@@ -85,3 +85,8 @@ return {
 	 - for code snippets and autocompletions
 - surround
 - telescope
+- oil
+	- edit like view for file changes
+- Sniprun
+	-  need to install the binaries externaly, by executing `install.sh` in their core file
+- harpoon

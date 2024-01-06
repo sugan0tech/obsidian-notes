@@ -28,11 +28,14 @@ vim.keymap.set('x', 'Q', ':norm @q<CR>') -- applying macro to multiple lines
 
 ## Treesitter
 `<C-p>`
+## Telescope
 `<Leader>ff` files
 `<Leader>fg` find with grep
 `<Leader>fb` find for buffer
 `<Leader>fh` find for help ( list of man pages for all tools inside nvim )
 note for leader will be using ` ` space
+`<C-S-P>` to move previous telescope menu
+`<C-S-N>` to move next telescope menu
 
 
 ## NeoTree
@@ -124,3 +127,26 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 - `<leader>sc` to spectre current file
 - `dd` to toggle selected files
 - `<leader>c` to confirm regrex
+
+## LSP
+- `hx` to trigger errors
+
+## Harpoon
+- `hm` to mark a file for harpoon
+- `<C-h>` for toggling previous
+- `<C-l>` for toggling next
+
+## UFO - for code folding ==fails in mac==
+- `zm` for global folding
+- `zr` open folds ( excluding comments and imports)
+
+## session storing
+- using `nvim-possesion`
+- `<leader>sl` to list session
+- `<leader>sn` to list create session
+- `<leader>sd` to list delete session
+- `<leader>su` to list update session
+
+
+
+

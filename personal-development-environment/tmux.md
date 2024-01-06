@@ -10,6 +10,7 @@
 ## Short cuts
 - `Ctrl+B` as leader
 - `<Leader>w` ==the ultimate command==
+- `<Leader>Z` to focus current pane and vice versa
 - `<Leader>"` to split horizontally
 - `<Leader>%` to split vertically
 - to move `<Leader>}` 

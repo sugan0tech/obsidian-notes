@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0926c6f67c425eec",
+        "id": "c39cba4a04a4674f",
         "type": "tabs",
         "children": [
           {
-            "id": "65a1506885f2081c",
+            "id": "1a62e51c723898aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Configs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd82ee8a5ed7cb9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal-development-environment/tmux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fa3ab8e41a31a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7939cfa918d14040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
+                "file": "languages/GO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
+                "file": "languages/GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
+                "file": "languages/GO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +120,17 @@
             }
           },
           {
-            "id": "d02f0d56e59fbc3a",
+            "id": "8fa8fde6baa294c0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md"
+                "file": "languages/GO.md"
               }
             }
           },
           {
-            "id": "9958f429e71c56f4",
+            "id": "4b2f4d8352869ded",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -193,10 +156,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1fa3ab8e41a31a3e",
+  "active": "1a62e51c723898aa",
   "lastOpenFiles": [
     "personal-development-environment/tmux.md",
+    "languages/GO.md",
     "personal-development-environment/vim/Nvim Short cuts.md",
+    "tools/svelte.md",
     "personal-development-environment/vim/Nvim Configs.md",
     "personal-development-environment/Essentials-Cmds.md",
     "personal-development-environment/vim/lsp.md",
@@ -226,8 +191,6 @@
     "personal-development-environment/gdu.md",
     "personal-development-environment/greenclip.md",
     "personal-development-environment/i3-wm.md",
-    "personal-development-environment/jetbrains-IDE.md",
-    "personal-development-environment/Manjaro.md",
     "personal-development-environment/Pasted image 20231112115448.png",
     "languages/OCaml",
     "languages",
