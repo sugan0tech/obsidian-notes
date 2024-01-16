@@ -32,10 +32,13 @@ vim.keymap.set('x', 'Q', ':norm @q<CR>') -- applying macro to multiple lines
 `<Leader>ff` files
 `<Leader>fg` find with grep
 `<Leader>fb` find for buffer
+`<Leader>fs`find with document symbols
+`<Leader>ws`find with workspace globally
 `<Leader>fh` find for help ( list of man pages for all tools inside nvim )
 note for leader will be using ` ` space
 `<C-S-P>` to move previous telescope menu
 `<C-S-N>` to move next telescope menu
+
 
 
 ## NeoTree

@@ -90,3 +90,4 @@ return {
 - Sniprun
 	-  need to install the binaries externaly, by executing `install.sh` in their core file
 - harpoon
+- vim-tmuxifier
