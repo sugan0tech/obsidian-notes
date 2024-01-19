@@ -153,4 +153,8 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 
 
 
+## tabs
+- `<leader>ll` for next
+- `<leader>hh` for previous 
+
 
