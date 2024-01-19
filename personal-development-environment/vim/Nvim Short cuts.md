@@ -21,7 +21,8 @@ vim.keymap.set('x', 'Q', ':norm @q<CR>') -- applying macro to multiple lines
 ```
 - we can also do recursive macro ( ==just record a macro inside it's record==)
 
-
+## tmux integration
+now `ctrl` + vim motion will move between panes in both in vim and tmux
 ## lazy.nvim cmd
 `:Lazy`
 
