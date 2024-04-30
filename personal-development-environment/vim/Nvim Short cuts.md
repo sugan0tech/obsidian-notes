@@ -164,4 +164,8 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 
 ###  Registers
 - `"<Register>y` - to map current yanked value to corresponding register
-- `+` - Special register for Linux & Windows, `*` for mac
+- `"<Register><Action>` - in general 
+	- for action can be of `y`, `p` etc..
+- Special Registers
+	- `+` - register for Linux & Windows, `*` for mac clipboards
+	- `%` - gives current file path
