@@ -150,3 +150,23 @@ func slowGreet(str string, doneChan chan bool){
 		}
 	}
 ```
+
+
+
+## net/http
+source: [digital-ocean net/http](https://www.digitalocean.com/community/tutorials/how-to-make-an-http-server-in-go)
+handlers:
+	handles the req & res
+```go 
+func getRoot(w http.ResponseWriter, r *http.Request) {
+	fmt.Printf("got / request\n")
+	io.WriteString(w, "This is my website!\n")
+}
+func getHello(w http.ResponseWriter, r *http.Request) {
+	fmt.Printf("got /hello request\n")
+	io.WriteString(w, "Hello, HTTP!\n")
+}
+```
+- note Request is a pointer 
+	- `Efficency` may contains associated payload in large chunks
+	- `Mutablity` if we have to use middle-ware parser

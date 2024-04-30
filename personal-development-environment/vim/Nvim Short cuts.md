@@ -1,4 +1,4 @@
-#shortcuts
+shortcuts
 
 ## Edits
 - `i` for insert
@@ -88,8 +88,8 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 `Ctrl+N` for new file
 
 ## snippets
-`<C-k>` to move up
-`<C-j>` to move down
+`<C-p>` to move up
+`<C-n>` to move down
 `<C-Space` to select 
 `<Enter>` initially or `<C-e>`to cancel the snippet
 
@@ -100,6 +100,10 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 	- `gd` for go to definition
 	- `<Leader>ca` for code actions
 	- `K` for list
+- Trouble 
+	- `<Leader>xx`  general toggle
+	- `<Leader>xd` trouble for particular document
+	- `<Leader>xq` for quick fix
 ## code markings
 - Upper case for global lower case for buffers
 - `mx` mark line as x
@@ -158,3 +162,6 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 - `<leader>hh` for previous 
 
 
+###  Registers
+- `"<Register>y` - to map current yanked value to corresponding register
+- `+` - Special register for Linux & Windows, `*` for mac
