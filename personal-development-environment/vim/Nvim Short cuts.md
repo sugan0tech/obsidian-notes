@@ -6,8 +6,23 @@ shortcuts
 - `v` for visual
 - `c` for clear
 - `d` for delete
+- `C` for delete and insert ( only for visual selection )
 - `y` for yank ( copy )
 - `f` for finding withing a line and jumps to it
+- `xp` swap characters ( `x` cuts, `p` pasts after )
+- `<` indent left
+- `>` indent right
+- `g~` toggles selected text to upper/lower
+- `gU` toggles selected text to upper
+- `gu` toggles selected text to lower
+
+###  Motions Extra
+- `^` beginning of the sentence ( before white spaces)
+- `H` for head in current window
+- `M` middle in current window
+- `L` last in current window
+
+
 ## Macros
 - we can record set of key action and execute it later press `qq` in normal mode to enter macro recording, then after executing those commands and enter `q` to stop recording .
 - to redo those macro use `@q` to execute that macro
