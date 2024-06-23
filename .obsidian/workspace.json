@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
+                "file": "personal-development-environment/Nix-Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
+                "file": "personal-development-environment/Nix-Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
+                "file": "personal-development-environment/Nix-Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md"
+                "file": "personal-development-environment/Nix-Shell.md"
               }
             }
           },
@@ -158,17 +158,17 @@
   },
   "active": "7295d9370c9e6f0b",
   "lastOpenFiles": [
+    "personal-development-environment/vim/Nvim Configs.md",
+    "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/vim/neovim.md",
     "personal-development-environment/tmux.md",
     "tools/dbs/mssql-server.md",
     "personal-development-environment/nushell.md",
     "tools/dbs",
     "personal-development-environment/bat.md",
-    "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/Nix-Shell.md",
     "Untitled 2.canvas",
     "languages/GO.md",
-    "personal-development-environment/vim/Nvim Configs.md",
     "languages/Rust.md",
     "personal-development-environment/vim/lsp.md",
     "personal-development-environment/vim/LazyVim.md",
