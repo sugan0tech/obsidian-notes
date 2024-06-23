@@ -6,6 +6,8 @@ Installation:
 What is nix: 
 - A `FlatPack` like package manager, can easy package management i.e all the packages under `/nix/store/`
 - To spawn a nix-shell just run `nix-shell -p`
+- To spawn a nix-shell with in-session package `nix-shell -p pfetch`
+	- connects to nix-shell, with `pfetch` installed
 
 
 
