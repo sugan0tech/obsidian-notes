@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "43f563b59654f259",
+    "id": "f5174049973a8a8b",
     "type": "split",
     "children": [
       {
-        "id": "01cc90952e8a3fed",
+        "id": "352ef83d3e01036b",
         "type": "tabs",
         "children": [
           {
-            "id": "7295d9370c9e6f0b",
+            "id": "d62014a6d2235caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,22 +18,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16607f6cbd8b9e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/NIX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2523a097845d2251",
+    "id": "fd599c97691f542c",
     "type": "split",
     "children": [
       {
-        "id": "645c3f19917366e8",
+        "id": "0b9b2eb511d28280",
         "type": "tabs",
         "children": [
           {
-            "id": "be6a339dabbafc5d",
+            "id": "5c7c6e857df22705",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "bef4dca337b56016",
+            "id": "c3d88b88692e85d3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "957e4571969d9da3",
+            "id": "1b61bb2a4064b9ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 300
   },
   "right": {
-    "id": "9f78b34c56e2ac02",
+    "id": "34c7f42ad90e9f12",
     "type": "split",
     "children": [
       {
-        "id": "aecb2919ad6c91ca",
+        "id": "2dee910bf1de85e9",
         "type": "tabs",
         "children": [
           {
-            "id": "b96c5d746425de9c",
+            "id": "974a7dec352eab1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-development-environment/Nix-Shell.md",
+                "file": "tools/NIX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "ef2663321cdb1ec1",
+            "id": "f2a8a4f52c04c202",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-development-environment/Nix-Shell.md",
+                "file": "tools/NIX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "388339a8929aeb78",
+            "id": "8f7f327d53e94326",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +133,17 @@
             }
           },
           {
-            "id": "8fa8fde6baa294c0",
+            "id": "4206e3a92dbb3aa0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-development-environment/Nix-Shell.md"
+                "file": "tools/NIX.md"
               }
             }
           },
           {
-            "id": "4b2f4d8352869ded",
+            "id": "402f47d9575041ef",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,57 +159,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7295d9370c9e6f0b",
+  "active": "16607f6cbd8b9e66",
   "lastOpenFiles": [
-    "personal-development-environment/vim/Nvim Configs.md",
-    "personal-development-environment/vim/Nvim Short cuts.md",
-    "personal-development-environment/vim/neovim.md",
-    "personal-development-environment/tmux.md",
+    "tools/NIX.md",
+    "personal-development-environment/Nix-Shell.md",
+    "tools/sveltekit.md",
     "tools/dbs/mssql-server.md",
-    "personal-development-environment/nushell.md",
     "tools/dbs",
     "personal-development-environment/bat.md",
-    "personal-development-environment/Nix-Shell.md",
-    "Untitled 2.canvas",
-    "languages/GO.md",
     "languages/Rust.md",
+    "concepts/general/backfilling.md",
+    "concepts/general",
+    "Untitled 2.canvas",
+    "concepts/Req - design.md",
+    "tools/spring/controllers.md",
+    "tools/spring",
+    "personal-development-environment/vim/Nvim Configs.md",
+    "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/vim/lsp.md",
     "personal-development-environment/vim/LazyVim.md",
-    "concepts/general/backfilling.md",
-    "concepts/general/Untitled",
-    "concepts/general",
-    "Untitled 2",
-    "tools/svelte.md",
-    "mein-enfarung/SQL - thing.md",
-    "tools/sveltekit.md",
-    "concepts/web/HTTP 2.md",
-    "concepts/web/GraphQL.md",
-    "Projects/OrgAssist.md",
-    "dev-tools/mkcert.md",
-    "personal-development-environment/Essentials-Cmds.md",
-    "personal-development-environment/feh.md",
-    "personal-development-environment/dunst.md",
+    "personal-development-environment/vim/neovim.md",
     "personal-development-environment/vim",
-    "Untitled 1",
-    "personal-development-environment/drun.md",
-    "personal-development-environment/Alacritty.md",
-    "personal-development-environment/bash.md",
-    "tools/spring",
-    "Untitled",
-    "concepts/optimisations",
+    "personal-development-environment/tmux.md",
+    "languages/java/key prompters.md",
+    "languages/GO.md",
+    "concepts/web/UDP.md",
+    "concepts/web/Turing Complete.md",
+    "concepts/web/TCP.md",
+    "concepts/web/QUIC.md",
+    "concepts/web/HTTP 2.md",
+    "concepts/web/HTTP 3.md",
+    "concepts/web/HTTP 1.md",
+    "concepts/web/gRPC.md",
+    "concepts/web/HTTP 1.1.md",
     "concepts/web",
-    "personal-development-environment/Pasted image 20231112115448.png",
-    "Pasted image 20231119183035.png",
+    "tools",
+    "languages/OCaml",
+    "languages/java",
+    "languages",
+    "dev-tools",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Pasted image 20231122194700.png",
     "Pasted image 20231119205232.png",
     "Pasted image 20231119205132.png",
@@ -204,9 +217,9 @@
     "Pasted image 20231119190738.png",
     "Pasted image 20231119185901.png",
     "Pasted image 20231119185835.png",
-    "HTTP 1 demo.canvas",
+    "Pasted image 20231119183035.png",
     "Pasted image 20231116222703.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "HTTP 1 demo.canvas",
+    "personal-development-environment/Pasted image 20231112115448.png"
   ]
 }
