@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "01cc90952e8a3fed",
+        "id": "08163154ba6fcbcb",
         "type": "tabs",
         "children": [
           {
-            "id": "7295d9370c9e6f0b",
+            "id": "4bab39266009a021",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/AWK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e218dc7fafe7afce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal-development-environment/FZF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49e8b3205f02ddce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dev-tools/Docker.md",
+                "file": "personal-development-environment/Pacman.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-development-environment/FZF.md",
+                "file": "personal-development-environment/Pacman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-development-environment/FZF.md",
+                "file": "personal-development-environment/Pacman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-development-environment/FZF.md"
+                "file": "personal-development-environment/Pacman.md"
               }
             }
           },
@@ -181,22 +156,24 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e218dc7fafe7afce",
+  "active": "4bab39266009a021",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "personal-development-environment/FZF.md",
+    "personal-development-environment/Manjaro.md",
+    "personal-development-environment/Pacman.md",
+    "personal-development-environment/Nix-Shell.md",
     "tools/NIX.md",
+    "personal-development-environment/nushell.md",
+    "dev-tools/Docker.md",
+    "personal-development-environment/FZF.md",
+    "conflict-files-obsidian-git.md",
     "tools/AWK.md",
     "personal-development-environment/tmux.md",
-    "dev-tools/Docker.md",
     "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/vim/neovim.md",
-    "personal-development-environment/Nix-Shell.md",
     "2024-06-23.md",
     "Untitled 3.canvas",
     "personal-development-environment/vim/Nvim Configs.md",
     "tools/dbs/mssql-server.md",
-    "personal-development-environment/nushell.md",
     "tools/dbs",
     "personal-development-environment/bat.md",
     "Untitled 2.canvas",
@@ -213,8 +190,6 @@
     "tools/sveltekit.md",
     "concepts/web/HTTP 2.md",
     "concepts/web/GraphQL.md",
-    "Projects/OrgAssist.md",
-    "dev-tools/mkcert.md",
     "personal-development-environment/vim",
     "Untitled 1",
     "tools/spring",
