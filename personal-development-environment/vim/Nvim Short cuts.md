@@ -156,12 +156,15 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 
 ## Harpoon
 - `hm` to mark a file for harpoon
-- `<C-h>` for toggling previous
-- `<C-l>` for toggling next
+- `<C-H>` for toggling previous
+- `<C-L>` for toggling next
+> since `ctrl + h, l` mapped for tmux integration
 
 ## UFO - for code folding ==fails in mac==
 - `zm` for global folding
 - `zr` open folds ( excluding comments and imports)
+- `zx` open folds ( including comments and imports )
+
 
 ## session storing
 - using `nvim-possesion`
@@ -169,6 +172,7 @@ normal vim motion keys `hjkl` ( with Shift for moving the window )
 - `<leader>sn` to list create session
 - `<leader>sd` to list delete session
 - `<leader>su` to list update session
+> Not using sessions now, since with the use of tmux & harpoon
 
 
 

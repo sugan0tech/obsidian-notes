@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/GNU-stow.md",
+                "file": "personal-development-environment/vim/Nvim Short cuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/GNU-stow.md",
+                "file": "personal-development-environment/vim/Nvim Short cuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/GNU-stow.md"
+                "file": "personal-development-environment/vim/Nvim Short cuts.md"
               }
             }
           },
@@ -169,13 +168,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "69272441e6438ff4",
+  "active": "ef311c9474b040b2",
   "lastOpenFiles": [
+    "tools/GNU-stow.md",
     "Pasted image 20240714135355.png",
     "Pasted image 20240714125636.png",
     "Pasted image 20240714125556.png",
     "languages/GO.md",
-    "tools/GNU-stow.md",
     "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/vim/Nvim Configs.md",
     "personal-development-environment/vim/neovim.md",
@@ -218,7 +217,6 @@
     "Pasted image 20231119205132.png",
     "Pasted image 20231119190820.png",
     "Pasted image 20231119190738.png",
-    "Pasted image 20231119185901.png",
     "HTTP 1 demo.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
