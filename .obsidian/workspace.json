@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10dc5dfa11c8fafd",
+        "id": "2b92258ebb1578e3",
         "type": "tabs",
         "children": [
           {
-            "id": "34ec3159b348f54e",
+            "id": "7d988b2c18f972d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/ssh.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tools/ssh.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,16 +148,24 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "34ec3159b348f54e",
+  "active": "7d988b2c18f972d4",
   "lastOpenFiles": [
+    "Linux/Logging.md",
+    "Linux/BootSystem.md",
+    "Linux/FilesStructure.md",
+    "Linux/Access.md",
+    "Linux/Processes.md",
+    "Linux/UserManagement.md",
+    "Linux/Linux.md",
+    "personal-development-environment/PDE ( Personal Development Environment ).md",
+    "tools/ssh.md",
+    "Linux",
     "tools/svelte.md",
     "tools/web.md",
     "tools/filrewalls/firewalls.md",
-    "tools/ssh.md",
     "tools/filrewalls",
     "concepts/web/TCP.md",
     "personal-development-environment/bat.md",
-    "personal-development-environment/PDE ( Personal Development Environment ).md",
     "personal-development-environment/Manjaro.md",
     "concepts/web/gRPC.md",
     "personal-development-environment/FZF.md",
@@ -181,13 +181,6 @@
     "Pasted image 20240714125556.png",
     "languages/GO.md",
     "personal-development-environment/vim/Nvim Configs.md",
-    "personal-development-environment/vim/neovim.md",
-    "personal-development-environment/Pacman.md",
-    "languages/Rust.md",
-    "tools/NIX.md",
-    "personal-development-environment/Nix-Shell.md",
-    "personal-development-environment/nushell.md",
-    "conflict-files-obsidian-git.md",
     "Untitled 3.canvas",
     "tools/dbs",
     "Untitled 2.canvas",
@@ -197,7 +190,6 @@
     "personal-development-environment/vim",
     "Untitled 1",
     "tools/spring",
-    "Untitled",
     "concepts/optimisations",
     "personal-development-environment/Pasted image 20231112115448.png",
     "Pasted image 20231119183035.png",

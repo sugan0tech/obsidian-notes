@@ -1,22 +1,58 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:dev-tools  ",
+      "color": {
+        "a": 1,
+        "rgb": 15896379
+      }
+    },
+    {
+      "query": "path:personal-development-environment  ",
+      "color": {
+        "a": 1,
+        "rgb": 5624692
+      }
+    },
+    {
+      "query": "path:tools  ",
+      "color": {
+        "a": 1,
+        "rgb": 2075135
+      }
+    },
+    {
+      "query": "path:concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 8133907
+      }
+    },
+    {
+      "query": "path:languages  ",
+      "color": {
+        "a": 1,
+        "rgb": 11998625
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 3.46256917317708,
-  "lineSizeMultiplier": 4.3958740234375,
+  "textFadeMultiplier": -2.6,
+  "nodeSizeMultiplier": 2.82674153645833,
+  "lineSizeMultiplier": 3.76622721354167,
   "collapse-forces": false,
-  "centerStrength": 0.614013671875,
-  "repelStrength": 7.48779296875,
-  "linkStrength": 0,
-  "linkDistance": 250,
-  "scale": 1.6357197359936064,
+  "centerStrength": 0.321695963541667,
+  "repelStrength": 9.24641927083333,
+  "linkStrength": 1,
+  "linkDistance": 161,
+  "scale": 0.2547747112246514,
   "close": false
 }
