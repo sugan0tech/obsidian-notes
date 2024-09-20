@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2468ebdbc626862",
+        "id": "10dc5dfa11c8fafd",
         "type": "tabs",
         "children": [
           {
-            "id": "ef311c9474b040b2",
+            "id": "34ec3159b348f54e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69272441e6438ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/GNU-stow.md",
+                "file": "tools/ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
+                "file": "tools/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md",
+                "file": "tools/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-development-environment/vim/Nvim Short cuts.md"
+                "file": "tools/ssh.md"
               }
             }
           },
@@ -168,48 +156,49 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ef311c9474b040b2",
+  "active": "34ec3159b348f54e",
   "lastOpenFiles": [
+    "tools/svelte.md",
+    "tools/web.md",
+    "tools/filrewalls/firewalls.md",
+    "tools/ssh.md",
+    "tools/filrewalls",
+    "concepts/web/TCP.md",
+    "personal-development-environment/bat.md",
+    "personal-development-environment/PDE ( Personal Development Environment ).md",
+    "personal-development-environment/Manjaro.md",
+    "concepts/web/gRPC.md",
+    "personal-development-environment/FZF.md",
+    "tools/AWK.md",
+    "concepts/web/HTTP 1.md",
+    "dev-tools/K8s.md",
+    "dev-tools/Docker.md",
+    "dev-tools/mkcert.md",
     "tools/GNU-stow.md",
+    "personal-development-environment/vim/Nvim Short cuts.md",
     "Pasted image 20240714135355.png",
     "Pasted image 20240714125636.png",
     "Pasted image 20240714125556.png",
     "languages/GO.md",
-    "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/vim/Nvim Configs.md",
     "personal-development-environment/vim/neovim.md",
     "personal-development-environment/Pacman.md",
-    "personal-development-environment/Manjaro.md",
     "languages/Rust.md",
     "tools/NIX.md",
-    "tools/AWK.md",
     "personal-development-environment/Nix-Shell.md",
     "personal-development-environment/nushell.md",
-    "dev-tools/Docker.md",
-    "personal-development-environment/FZF.md",
     "conflict-files-obsidian-git.md",
-    "personal-development-environment/tmux.md",
-    "2024-06-23.md",
     "Untitled 3.canvas",
-    "tools/dbs/mssql-server.md",
     "tools/dbs",
-    "personal-development-environment/bat.md",
     "Untitled 2.canvas",
-    "personal-development-environment/vim/lsp.md",
-    "personal-development-environment/vim/LazyVim.md",
-    "concepts/general/backfilling.md",
     "concepts/general/Untitled",
     "concepts/general",
     "Untitled 2",
-    "tools/svelte.md",
-    "mein-enfarung/SQL - thing.md",
-    "tools/sveltekit.md",
     "personal-development-environment/vim",
     "Untitled 1",
     "tools/spring",
     "Untitled",
     "concepts/optimisations",
-    "concepts/web",
     "personal-development-environment/Pasted image 20231112115448.png",
     "Pasted image 20231119183035.png",
     "Pasted image 20231122194700.png",

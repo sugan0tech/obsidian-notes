@@ -6,6 +6,7 @@
 > So most of the interactive tools will be vim based and configs are fine-tuned for better support with vim bindings.
 
 
+
 Core stuff:
 1. OS 
 	- [[Manjaro]]
