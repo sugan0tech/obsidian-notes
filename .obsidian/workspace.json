@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b92258ebb1578e3",
+        "id": "eb073fe03ae0045e",
         "type": "tabs",
         "children": [
           {
-            "id": "7d988b2c18f972d4",
+            "id": "0d6ca717b973a7cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7d988b2c18f972d4",
+  "active": "0d6ca717b973a7cc",
   "lastOpenFiles": [
+    "concepts/Networking/DNS.md",
+    "concepts/Networking/Routing.md",
+    "concepts/Networking/Subnetting.md",
+    "concepts/Networking/Sharing.md",
+    "concepts/Networking",
     "Linux/Logging.md",
     "Linux/BootSystem.md",
     "Linux/FilesStructure.md",
@@ -174,13 +179,9 @@
     "dev-tools/K8s.md",
     "dev-tools/Docker.md",
     "dev-tools/mkcert.md",
-    "tools/GNU-stow.md",
-    "personal-development-environment/vim/Nvim Short cuts.md",
     "Pasted image 20240714135355.png",
     "Pasted image 20240714125636.png",
     "Pasted image 20240714125556.png",
-    "languages/GO.md",
-    "personal-development-environment/vim/Nvim Configs.md",
     "Untitled 3.canvas",
     "tools/dbs",
     "Untitled 2.canvas",
@@ -190,7 +191,6 @@
     "personal-development-environment/vim",
     "Untitled 1",
     "tools/spring",
-    "concepts/optimisations",
     "personal-development-environment/Pasted image 20231112115448.png",
     "Pasted image 20231119183035.png",
     "Pasted image 20231122194700.png",
