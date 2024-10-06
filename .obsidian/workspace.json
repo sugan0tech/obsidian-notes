@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d9cf3749b0ad9bb0",
+        "id": "7028143cd3fd5d8e",
         "type": "tabs",
         "children": [
           {
-            "id": "3d6793be5f13e334",
+            "id": "2f77fce8a5831bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mein-enfarung/Interesting Scaling Takeaways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3a69db5e935d12a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mein-enfarung/Interesting Scaling Takeaways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mein-enfarung/Interesting Scaling Takeaways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mein-enfarung/Interesting Scaling Takeaways.md"
+              }
             }
           },
           {
@@ -148,8 +164,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3d6793be5f13e334",
+  "active": "2f77fce8a5831bca",
   "lastOpenFiles": [
+    "mein-enfarung/Interesting Scaling Takeaways.md",
+    "mein-enfarung/Microservices.md",
+    "mein-enfarung/First note.md",
+    "DevOps/AWS/EC2.md",
     "concepts/general/Quantum Computing.md",
     "concepts/general/Shor's Algorithm.md",
     "concepts/general/backfilling.md",
@@ -174,10 +194,6 @@
     "concepts/web/gRPC.md",
     "tools/File.md",
     "Linux/Linux.md",
-    "Linux/Logging.md",
-    "Linux/FilesSystem.md",
-    "tools/ssh.md",
-    "tools/AWK.md",
     "Untitled 4.canvas",
     "DevOps",
     "concepts/Networking",
