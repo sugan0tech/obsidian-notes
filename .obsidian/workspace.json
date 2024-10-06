@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb073fe03ae0045e",
+        "id": "d9cf3749b0ad9bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "0d6ca717b973a7cc",
+            "id": "3d6793be5f13e334",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 295.5026054382324
   },
   "right": {
     "id": "9f78b34c56e2ac02",
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,37 +148,41 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0d6ca717b973a7cc",
+  "active": "3d6793be5f13e334",
   "lastOpenFiles": [
-    "concepts/Networking/DNS.md",
-    "concepts/Networking/Routing.md",
-    "concepts/Networking/Subnetting.md",
-    "concepts/Networking/Sharing.md",
-    "concepts/Networking",
-    "Linux/Logging.md",
-    "Linux/BootSystem.md",
-    "Linux/FilesStructure.md",
-    "Linux/Access.md",
-    "Linux/Processes.md",
-    "Linux/UserManagement.md",
-    "Linux/Linux.md",
-    "personal-development-environment/PDE ( Personal Development Environment ).md",
-    "tools/ssh.md",
-    "Linux",
-    "tools/svelte.md",
-    "tools/web.md",
-    "tools/filrewalls/firewalls.md",
-    "tools/filrewalls",
-    "concepts/web/TCP.md",
-    "personal-development-environment/bat.md",
-    "personal-development-environment/Manjaro.md",
-    "concepts/web/gRPC.md",
-    "personal-development-environment/FZF.md",
-    "tools/AWK.md",
-    "concepts/web/HTTP 1.md",
-    "dev-tools/K8s.md",
-    "dev-tools/Docker.md",
+    "concepts/general/Quantum Computing.md",
+    "concepts/general/Shor's Algorithm.md",
+    "concepts/general/backfilling.md",
+    "DevOps/AWS/IAM.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "DevOps/Untitled.md",
+    "DevOps/AWS",
+    "DevOps/DevOps.md",
+    "DevOps/AWS.md",
+    "DevOps/AWS",
+    "concepts/web/HTTP 3.md",
     "dev-tools/mkcert.md",
+    "Linux/BootSystem.md",
+    "concepts/Networking/Routing.md",
+    "concepts/Networking/Networking.md",
+    "concepts/Networking/Subnetting.md",
+    "concepts/Networking/DNS.md",
+    "concepts/web/QUIC.md",
+    "concepts/web/HTTP 1.1.md",
+    "concepts/web/HTTP 2.md",
+    "concepts/web/gRPC.md",
+    "tools/File.md",
+    "Linux/Linux.md",
+    "Linux/Logging.md",
+    "Linux/FilesSystem.md",
+    "tools/ssh.md",
+    "tools/AWK.md",
+    "Untitled 4.canvas",
+    "DevOps",
+    "concepts/Networking",
+    "Linux",
+    "tools/filrewalls",
     "Pasted image 20240714135355.png",
     "Pasted image 20240714125636.png",
     "Pasted image 20240714125556.png",
@@ -188,9 +192,6 @@
     "concepts/general/Untitled",
     "concepts/general",
     "Untitled 2",
-    "personal-development-environment/vim",
-    "Untitled 1",
-    "tools/spring",
     "personal-development-environment/Pasted image 20231112115448.png",
     "Pasted image 20231119183035.png",
     "Pasted image 20231122194700.png",
