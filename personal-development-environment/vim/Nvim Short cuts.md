@@ -16,6 +16,9 @@ shortcuts
 - `gU` toggles selected text to upper
 - `gu` toggles selected text to lower
 
+### Normal Command editor
+- While in command buffer `ctrl+f` will enable vim motions on command editor itself
+
 ###  Motions Extra
 - `^` beginning of the sentence ( before white spaces)
 - `H` for head in current window
