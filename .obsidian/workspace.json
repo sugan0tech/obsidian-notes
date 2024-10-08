@@ -11,8 +11,12 @@
             "id": "e3a69db5e935d12a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/AWS/EC2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324
+    "width": 295.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "9f78b34c56e2ac02",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps/AWS/EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps/AWS/EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps/AWS/EC2.md"
+              }
             }
           },
           {
@@ -151,6 +159,15 @@
   },
   "active": "e3a69db5e935d12a",
   "lastOpenFiles": [
+    "Pasted image 20241007145635.png",
+    "Pasted image 20241007145622.png",
+    "Pasted image 20241007145446.png",
+    "Pasted image 20241007144720.png",
+    "Pasted image 20241007144511.png",
+    "Pasted image 20241007144451.png",
+    "Pasted image 20241007140725.png",
+    "Pasted image 20241007123104.png",
+    "Pasted image 20241007114349.png",
     "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/vim/Nvim Configs.md",
     "personal-development-environment/vim/neovim.md",
@@ -178,7 +195,6 @@
     "concepts/Networking/DNS.md",
     "concepts/web/QUIC.md",
     "concepts/web/HTTP 1.1.md",
-    "concepts/web/HTTP 2.md",
     "Untitled 4.canvas",
     "DevOps",
     "concepts/Networking",
@@ -186,20 +202,12 @@
     "tools/filrewalls",
     "Pasted image 20240714135355.png",
     "Pasted image 20240714125636.png",
-    "Pasted image 20240714125556.png",
     "Untitled 3.canvas",
     "tools/dbs",
     "Untitled 2.canvas",
     "concepts/general/Untitled",
     "concepts/general",
     "Untitled 2",
-    "personal-development-environment/Pasted image 20231112115448.png",
-    "Pasted image 20231119183035.png",
-    "Pasted image 20231122194700.png",
-    "Pasted image 20231119205232.png",
-    "Pasted image 20231119205132.png",
-    "Pasted image 20231119190820.png",
-    "Pasted image 20231119190738.png",
     "HTTP 1 demo.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
