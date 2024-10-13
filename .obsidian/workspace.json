@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/AWS/EC2.md",
+                "file": "DevOps/AWS/Route53.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/AWS/EC2.md",
+                "file": "DevOps/AWS/Route53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/AWS/EC2.md",
+                "file": "DevOps/AWS/Route53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/AWS/EC2.md"
+                "file": "DevOps/AWS/Route53.md"
               }
             }
           },
@@ -159,6 +159,11 @@
   },
   "active": "e3a69db5e935d12a",
   "lastOpenFiles": [
+    "DevOps/AWS/VPC.md",
+    "DevOps/AWS/Route53.md",
+    "Pasted image 20241013225304.png",
+    "Pasted image 20241009142731.png",
+    "DevOps/AWS/EC2.md",
     "Pasted image 20241009105644.png",
     "Pasted image 20241009105509.png",
     "Pasted image 20241009105449.png",
@@ -167,16 +172,12 @@
     "Pasted image 20241007145635.png",
     "Pasted image 20241007145622.png",
     "Pasted image 20241007145446.png",
-    "Pasted image 20241007144720.png",
-    "Pasted image 20241007144511.png",
-    "Pasted image 20241007144451.png",
     "personal-development-environment/vim/Nvim Short cuts.md",
     "personal-development-environment/vim/Nvim Configs.md",
     "personal-development-environment/vim/neovim.md",
     "mein-enfarung/Interesting Scaling Takeaways.md",
     "mein-enfarung/Microservices.md",
     "mein-enfarung/First note.md",
-    "DevOps/AWS/EC2.md",
     "concepts/general/Quantum Computing.md",
     "concepts/general/Shor's Algorithm.md",
     "concepts/general/backfilling.md",
@@ -196,7 +197,6 @@
     "concepts/Networking/Subnetting.md",
     "concepts/Networking/DNS.md",
     "concepts/web/QUIC.md",
-    "concepts/web/HTTP 1.1.md",
     "Untitled 4.canvas",
     "DevOps",
     "concepts/Networking",
