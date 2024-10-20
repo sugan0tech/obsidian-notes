@@ -1,1 +1,16 @@
-{}
+{
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": " "
+    }
+  ]
+}

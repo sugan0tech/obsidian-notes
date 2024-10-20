@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7028143cd3fd5d8e",
+        "id": "2eb8756e8d49d52d",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a69db5e935d12a",
+            "id": "56a64fd3b9f1c52e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/AWS/Route53.md",
+                "file": "2 - Source Material/Postgres experience at Zerodha.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NVIM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324,
-    "collapsed": true
+    "width": 295.5026054382324
   },
   "right": {
     "id": "9f78b34c56e2ac02",
@@ -79,6 +78,7 @@
       {
         "id": "aecb2919ad6c91ca",
         "type": "tabs",
+        "dimension": 31.76982591876209,
         "children": [
           {
             "id": "b96c5d746425de9c",
@@ -86,14 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/AWS/Route53.md",
+                "file": "2 - Source Material/Postgres experience at Zerodha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/AWS/Route53.md",
+                "file": "2 - Source Material/Postgres experience at Zerodha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/AWS/Route53.md"
+                "file": "2 - Source Material/Postgres experience at Zerodha.md"
               }
             }
           },
@@ -137,9 +137,47 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0061eff9a97cba0f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "9ac5d714d17fbba8",
+        "type": "tabs",
+        "dimension": 31.76982591876209,
+        "children": [
+          {
+            "id": "b12ef2592edb6f12",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b55794fc36adf971",
+        "type": "tabs",
+        "dimension": 36.46034816247582,
+        "children": [
+          {
+            "id": "6f8378e75ad5b800",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,59 +195,59 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e3a69db5e935d12a",
+  "active": "4b2f4d8352869ded",
   "lastOpenFiles": [
+    "DevOps/AWS/AWS Security.md",
+    "2 - Source Material/Postgres experience at Zerodha.md",
+    "DevOps/AWS/AWSConfig.md",
+    "Pasted image 20241020101852.png",
     "DevOps/AWS/VPC.md",
-    "DevOps/AWS/Route53.md",
-    "Pasted image 20241013225304.png",
-    "Pasted image 20241009142731.png",
-    "DevOps/AWS/EC2.md",
-    "Pasted image 20241009105644.png",
-    "Pasted image 20241009105509.png",
-    "Pasted image 20241009105449.png",
-    "Pasted image 20241008181632.png",
-    "Pasted image 20241008100238.png",
-    "Pasted image 20241007145635.png",
-    "Pasted image 20241007145622.png",
-    "Pasted image 20241007145446.png",
-    "personal-development-environment/vim/Nvim Short cuts.md",
-    "personal-development-environment/vim/Nvim Configs.md",
-    "personal-development-environment/vim/neovim.md",
-    "mein-enfarung/Interesting Scaling Takeaways.md",
-    "mein-enfarung/Microservices.md",
-    "mein-enfarung/First note.md",
     "concepts/general/Quantum Computing.md",
-    "concepts/general/Shor's Algorithm.md",
+    "concepts/general/FE - Performance Acceleration.md",
     "concepts/general/backfilling.md",
-    "DevOps/AWS/IAM.md",
-    "Untitled 1.md",
+    "concepts/general/Shor's Algorithm.md",
+    "DevOps/AWS/CloudFront.md",
+    "2 - Source Material",
+    "1 - Rough Notes",
+    "Demo's.md",
     "Untitled.md",
-    "DevOps/Untitled.md",
-    "DevOps/AWS",
-    "DevOps/DevOps.md",
-    "DevOps/AWS.md",
-    "DevOps/AWS",
-    "concepts/web/HTTP 3.md",
-    "dev-tools/mkcert.md",
-    "Linux/BootSystem.md",
-    "concepts/Networking/Routing.md",
-    "concepts/Networking/Networking.md",
-    "concepts/Networking/Subnetting.md",
-    "concepts/Networking/DNS.md",
-    "concepts/web/QUIC.md",
+    "HTTP 1 demo.canvas",
+    "2024-10-18.md",
+    "2024-06-23.md",
+    "2023-11-15.md",
+    "README.md",
+    "test - presudio.md",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
     "Untitled 4.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "DevOps/DevOps.md",
+    "DevOps/AWS/AWS.md",
+    "dev-tools/UTM.md",
+    "personal-development-environment/PDE ( Personal Development Environment ).md",
+    "dev-tools/mkcert.md",
+    "personal-development-environment/Manjaro.md",
+    "personal-development-environment/bash.md",
+    "personal-development-environment/Essentials-Cmds.md",
+    "personal-development-environment/bat.md",
+    "personal-development-environment/Alacritty.md",
+    "Pasted image 20241017083514.png",
+    "Pasted image 20241017080704.png",
+    "Pasted image 20241017072309.png",
+    "Pasted image 20241017072245.png",
+    "Pasted image 20241017072201.png",
+    "Pasted image 20241017072153.png",
+    "Pasted image 20241017072144.png",
+    "Pasted image 20241017060917.png",
+    "Pasted image 20241016172729.png",
+    "DevOps/AWS",
+    "DevOps/AWS",
     "DevOps",
     "concepts/Networking",
     "Linux",
     "tools/filrewalls",
-    "Untitled 3.canvas",
     "tools/dbs",
-    "Untitled 2.canvas",
-    "concepts/general/Untitled",
-    "concepts/general",
-    "Untitled 2",
-    "HTTP 1 demo.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "concepts/general/Untitled"
   ]
 }

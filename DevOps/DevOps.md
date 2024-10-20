@@ -50,7 +50,7 @@ This following notes will carryout notes regarding devops and it's structure.
 - Deploy & Operate
 	- Ansible
 	- Chef
-	- Docker
+	- [[Docker]]
 	- Vagrant
 	- Puppet
 - Monitor
@@ -60,14 +60,14 @@ This following notes will carryout notes regarding devops and it's structure.
 
 ## To haves
 - simple langs 
-	- Go, Py & shell
+	- [[GO]], Py & shell
 - System Administration
-	- Linux
+	- [[Linux]]
 - Cloud management
-	- AWS, GCP & Azure
+	- [[AWS]], GCP & Azure
 - Practical Experience
 	1. Containers & deployments
-	2. Orchestration on K8s
+	2. Orchestration on [[K8s]]
 
 
 ### References
