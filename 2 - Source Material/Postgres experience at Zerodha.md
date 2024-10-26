@@ -13,8 +13,11 @@
 - Denormalize data sets, ( incrase size though, but better and faster queries )
 > Since with normalization, and given huge data bunch of join queries will take up lot's of resoruce.
 - Postgres db tuning across queries, `Also note of tuning hi accessed tables`
-- Having a single db instances, no replica & no master/slave. so for loadbalance using additional postgress as a cache layer with using as `sqljobber` [dungbeetle](https://github.com/zerodha/dungbeetle)
+- Having a single db instances, no replica & no master/slave. so for loadbalance using additional postgress as a cache layer with using as `sqljobber` [dungbeetle](https://github.com/zerodha/dungbeetle), haven't scaled their cacheing layer since 2021
 - Deleting lot of redundant data, i.e data that can be generated after certain set of computation.
 - Rather than giving computing in app, let's postgres do it. `overload your postgress withy any computations, it can do prettymuch faster than your app`
 ## References
 [Database Tuning at Zerodha - India's Largest Stock Broker](https://www.youtube.com/watch?v=XB2lF_Z9cbs)
+
+### Catchas
+- Postgress stores everythihng in a single directory

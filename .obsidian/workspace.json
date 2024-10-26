@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56a64fd3b9f1c52e",
+            "id": "8704bb6480e265ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Postgres experience at Zerodha.md",
+                "file": "languages/Haskell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "098615f76232f11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/TerraForm/Provisioners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41d9a218191424c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/TerraForm/Terraform Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeaf37e20e7965ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/TerraForm/HCL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Postgres experience at Zerodha.md",
+                "file": "DevOps/TerraForm/HCL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Postgres experience at Zerodha.md",
+                "file": "DevOps/TerraForm/HCL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Postgres experience at Zerodha.md"
+                "file": "DevOps/TerraForm/HCL.md"
               }
             }
           },
@@ -195,13 +232,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4b2f4d8352869ded",
+  "active": "aeaf37e20e7965ce",
   "lastOpenFiles": [
+    "DevOps/TerraForm/TerraForm.md",
+    "DevOps/TerraForm/HCL.md",
+    "DevOps/TerraForm/Terraform Security.md",
+    "DevOps/TerraForm/Provisioners.md",
+    "languages/Haskell.md",
+    "DevOps/AWS/EC2.md",
+    "DevOps/AWS/AWS.md",
+    "DevOps/TerraForm",
+    "DevOps/Untitled.md",
+    "Untitled",
+    "DevOps/AWS/Final Task.md",
+    "Pasted image 20241022151714.png",
     "DevOps/AWS/AWS Security.md",
-    "2 - Source Material/Postgres experience at Zerodha.md",
+    "DevOps/AWS/CloudWatchAgent.md",
+    "DevOps/AWS/AWS Monitoring.md",
+    "personal-development-environment/Essentials-Cmds.md",
     "DevOps/AWS/AWSConfig.md",
-    "Pasted image 20241020101852.png",
     "DevOps/AWS/VPC.md",
+    "personal-development-environment/Pacman.md",
+    "mein-enfarung/First note.md",
+    "2 - Source Material/Postgres experience at Zerodha.md",
+    "Pasted image 20241020101852.png",
     "concepts/general/Quantum Computing.md",
     "concepts/general/FE - Performance Acceleration.md",
     "concepts/general/backfilling.md",
@@ -213,25 +267,11 @@
     "Untitled.md",
     "HTTP 1 demo.canvas",
     "2024-10-18.md",
-    "2024-06-23.md",
-    "2023-11-15.md",
-    "README.md",
-    "test - presudio.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 4.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "DevOps/DevOps.md",
-    "DevOps/AWS/AWS.md",
-    "dev-tools/UTM.md",
-    "personal-development-environment/PDE ( Personal Development Environment ).md",
-    "dev-tools/mkcert.md",
-    "personal-development-environment/Manjaro.md",
-    "personal-development-environment/bash.md",
-    "personal-development-environment/Essentials-Cmds.md",
-    "personal-development-environment/bat.md",
-    "personal-development-environment/Alacritty.md",
     "Pasted image 20241017083514.png",
     "Pasted image 20241017080704.png",
     "Pasted image 20241017072309.png",
@@ -240,14 +280,11 @@
     "Pasted image 20241017072153.png",
     "Pasted image 20241017072144.png",
     "Pasted image 20241017060917.png",
-    "Pasted image 20241016172729.png",
     "DevOps/AWS",
     "DevOps/AWS",
     "DevOps",
     "concepts/Networking",
     "Linux",
-    "tools/filrewalls",
-    "tools/dbs",
-    "concepts/general/Untitled"
+    "tools/filrewalls"
   ]
 }
