@@ -1,12 +1,3 @@
-### adding path
-```nu 
-$env.PATH = ($env.PATH | split row (char esep) | prepend '/home/sugan/.tmuxifier/bin/')
-```
-- Need to append to already existing path in `env.nu` file from config dir
-
-
-### Environments
-
 
 # Environment Variable Management in Nushell
 
@@ -22,6 +13,16 @@ To set an environment variable in Nushell, use the following syntax:
 $env.VARIABLE_NAME = 'value'
 ```
 
+**Example**:
+
+```nu
+$env.AWS_ACCESS_KEY_ID = 'ASIDGWF7T'
+```
+
+> **Note**: Ensure there are spaces around the `=` sign to avoid syntax errors.
+
+---
+
 ## Accessing Environment Variables
 
 Retrieve the value of an environment variable like so:
@@ -29,6 +30,15 @@ Retrieve the value of an environment variable like so:
 ```nu
 $env.VARIABLE_NAME
 ```
+
+**Example**:
+
+```nu
+$env.AWS_ACCESS_KEY_ID
+```
+
+---
+
 ## Listing Environment Variables
 
 To view all environment variables in a table format, you can use:
