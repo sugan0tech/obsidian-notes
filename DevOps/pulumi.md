@@ -38,6 +38,11 @@ By utilizing stacks, you can:
 - **Manage Configurations Independently
 
 
+- Setting up state
+```bash
+pulumi stack init prod pulumi up -s prod
+```
+
 ---
 ## SDK
 Sample code
