@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "327a2670f8fdfab1",
+        "id": "0584407c057e019e",
         "type": "tabs",
         "children": [
           {
-            "id": "03840da04cc73b14",
+            "id": "426b407bbf021759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/TerraForm/HCL.md",
+                "file": "dev-tools/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HCL"
-            }
-          },
-          {
-            "id": "f96526315be3e56b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/pulumi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pulumi"
+              "title": "Docker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324
+    "width": 295.5024719238281
   },
   "right": {
     "id": "9f78b34c56e2ac02",
@@ -234,12 +219,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f96526315be3e56b",
+  "active": "426b407bbf021759",
   "lastOpenFiles": [
-    "personal-development-environment/nushell.md",
-    "DevOps/pulumi.md",
-    "DevOps/Untitled",
+    "Linux/Processes.md",
+    "2 - Source Material/Postgres experience at Zerodha.md",
+    "2 - Source Material/How discords optimizes their web-sockets traffic.md",
     "DevOps/TerraForm/HCL.md",
+    "DevOps/pulumi.md",
+    "personal-development-environment/nushell.md",
+    "DevOps/Untitled",
     "Nushell_Environment_Variables.md",
     "personal-development-environment/Essentials-Cmds.md",
     "concepts/web/QUIC.md",
@@ -263,9 +251,6 @@
     "DevOps/AWS/AWS Security.md",
     "DevOps/AWS/CloudWatchAgent.md",
     "DevOps/AWS/AWS Monitoring.md",
-    "DevOps/AWS/AWSConfig.md",
-    "DevOps/AWS/VPC.md",
-    "personal-development-environment/Pacman.md",
     "Pasted image 20241020101852.png",
     "2 - Source Material",
     "1 - Rough Notes",

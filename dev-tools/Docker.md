@@ -1,4 +1,6 @@
 #### Docker File
+
+> Docker is so good, docker file syntax became standard for container config [opencontainers](https://opencontainers.org)
 #### DockerIgnore
 #### Layering
 #### Volumes
