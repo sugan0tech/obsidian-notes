@@ -31,7 +31,7 @@ General ones:
 - [[greenclip]]
 - [[LazyVim]]
 - [[xTitle]]
-- [[docker]]
+- [[Docker]]
 - [[xorg-xandr]]
 - [[gdu]]
 - [[ranger]]
