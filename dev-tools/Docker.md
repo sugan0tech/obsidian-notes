@@ -115,9 +115,9 @@ Over time, Docker can accumulate unused data. Pruning commands help maintain a c
 
 ### Popular Base Distributions for Docker Containers 🐧
 
-- **Alpine**: Extremely lightweight, optimized for containers.
-- **CentOS**: Stable and widely used, upstream of Red Hat.
-- **NixOS**: Configuration-focused, uses Nix package manager for containers.
+- [[Alpine]]: Extremely lightweight, optimized for containers.
+- [[CentOs]]: Stable and widely used, upstream of Red Hat.
+- [[NIX]]: Configuration-focused, uses Nix package manager for containers.
 
 ---
 
