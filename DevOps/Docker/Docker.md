@@ -120,5 +120,10 @@ Over time, Docker can accumulate unused data. Pruning commands help maintain a c
 - [[NIX]]: Configuration-focused, uses Nix package manager for containers.
 
 ---
-
-This structure provides a **clear, organized view** of Docker's features and commands, making it easy to understand Docker’s key concepts and efficiently manage containerized environments.
+### Other concepts ⏭️
+- [[Docker Compose]]
+- [[Docker Images]]
+- [[Docker In Docker]]
+- [[Docker Networks]]
+- [[Docker Host VM]]
+- [[Container LifeTime & Persistent Data]]

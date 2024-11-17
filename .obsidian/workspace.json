@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Docker/Docker Host VM.md",
+                "file": "2 - Source Material/RBAC in app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Host VM"
+              "title": "RBAC in app"
             }
           }
         ]
@@ -219,8 +219,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "94511c509f7305c7",
+  "active": "4b2f4d8352869ded",
   "lastOpenFiles": [
+    "2 - Source Material/Postgres experience at Zerodha.md",
+    "2 - Source Material/RBAC in app.md",
+    "2 - Source Material/How discords optimizes their web-sockets traffic.md",
+    "1 - Rough Notes/Deploying Dotnet + keycloak + postgress in single compose.md",
     "DevOps/Docker/Docker.md",
     "DevOps/Docker/Docker Host VM.md",
     "DevOps/Docker/Docker In Docker.md",
@@ -237,8 +241,6 @@
     "Linux/distros/Alpine.md",
     "Linux/distros",
     "Linux/Processes.md",
-    "2 - Source Material/Postgres experience at Zerodha.md",
-    "2 - Source Material/How discords optimizes their web-sockets traffic.md",
     "DevOps/TerraForm/HCL.md",
     "DevOps/pulumi.md",
     "personal-development-environment/nushell.md",
@@ -249,8 +251,6 @@
     "concepts/web/HTTP 1.1.md",
     "concepts/web/HTTP 1.md",
     "DevOps/crossplane.md",
-    "languages/Haskell.md",
-    "DevOps/TerraForm/Provisioners.md",
     "DevOps/TerraForm",
     "Untitled",
     "Pasted image 20241022151714.png",
