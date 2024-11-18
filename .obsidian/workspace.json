@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/RBAC in app.md",
+                "file": "DevOps/Docker/Image Storage Optimisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RBAC in app"
+              "title": "Image Storage Optimisation"
             }
           }
         ]
@@ -219,10 +219,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4b2f4d8352869ded",
+  "active": "94511c509f7305c7",
   "lastOpenFiles": [
-    "2 - Source Material/Postgres experience at Zerodha.md",
     "2 - Source Material/RBAC in app.md",
+    "DevOps/Docker/Image Storage Optimisation.md",
+    "2 - Source Material/Postgres experience at Zerodha.md",
     "2 - Source Material/How discords optimizes their web-sockets traffic.md",
     "1 - Rough Notes/Deploying Dotnet + keycloak + postgress in single compose.md",
     "DevOps/Docker/Docker.md",
@@ -250,7 +251,6 @@
     "concepts/web/HTTP 3.md",
     "concepts/web/HTTP 1.1.md",
     "concepts/web/HTTP 1.md",
-    "DevOps/crossplane.md",
     "DevOps/TerraForm",
     "Untitled",
     "Pasted image 20241022151714.png",
