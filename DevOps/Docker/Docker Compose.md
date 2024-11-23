@@ -159,5 +159,6 @@ networks:
 - **`docker compose ps`**: List the status of containers within a composition.
 
 - **`docker compose config`**: Validate and view the expanded `docker-compose.yml` file.
+- `docker compose down -rmi`: stops & remove those containers, `rmi` to remove those build images
 
 With these configurations and commands, Docker Compose offers a flexible and quick way to orchestrate containers locally for development and testing

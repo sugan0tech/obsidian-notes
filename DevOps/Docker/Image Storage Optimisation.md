@@ -128,3 +128,7 @@ By applying these optimization techniques, the final Docker image is significant
 3. Use a `.dockerignore` file to exclude unnecessary files from the build context.
 
 For advanced use cases, consider exploring lightweight images like `distroless` to further minimize the runtime image size while maintaining security and performance.
+
+---
+### Resources
+[Docker Image Optimization: Reducing Size for Faster Deployments](https://dev.to/thenanjay/docker-image-optimization-reducing-size-for-faster-deployments-489g)
