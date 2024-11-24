@@ -162,4 +162,3 @@ graph TD
 1. Always enrich logs with trace IDs and span IDs.
 2. Use structured logging formats (e.g., JSON) for easier querying.
 3. Integrate all signals (metrics, logs, traces) into systems like Grafana or Elastic.
-
