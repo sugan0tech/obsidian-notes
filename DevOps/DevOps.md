@@ -67,7 +67,7 @@ This following notes will carryout notes regarding devops and it's structure.
 	- [[AWS]], GCP & Azure
 - Practical Experience
 	1. Containers & deployments
-	2. Orchestration on [[K8s]]
+	2. Orchestration on [[K8s Architecture]]
 
 
 ### References

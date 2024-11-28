@@ -1,4 +1,4 @@
-## Overview
+- [ ] ## Overview
 
 Observability enables understanding of the internal state of a system based on the data it generates. The three pillars of observability are **Metrics**, **Logs**, and **Traces**, each serving a distinct purpose but working cohesively to enhance system visibility.
 
