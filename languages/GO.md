@@ -429,16 +429,16 @@ import "math"
 
 ### **10. Tips for Java/.NET Developers**
 
-|**Java/.NET Concept**|**Go Equivalent**|**Notes**|
-|---|---|---|
-|`ArrayList`|`[]T` (Slice)|Use `append` for resizing.|
-|`HashMap`|`map[keyType]valueType`|Built-in map type.|
-|`LinkedList`|`container/list`|Requires manual traversal with pointers.|
-|`char`|`rune`|Runes support full Unicode.|
-|`Exception`|`error`|No exceptions; explicit error handling.|
-|`Multithreading`|Goroutines and Channels|Lightweight threads (concurrency primitives).|
-|`try-catch-finally`|Explicit error handling with `if`|No `finally`; use `defer`.|
-|`Generic Types`|Generics (`Go 1.18+`)|Use `interface{}` for older Go versions.|
+| **Java/.NET Concept** | **Go Equivalent**                 | **Notes**                                     |
+| --------------------- | --------------------------------- | --------------------------------------------- |
+| `ArrayList`           | `[]T` (Slice)                     | Use `append` for resizing.                    |
+| `HashMap`             | `map[keyType]valueType`           | Built-in map type.                            |
+| `LinkedList`          | `container/list`                  | Requires manual traversal with pointers.      |
+| `char`                | `rune`                            | Runes support full Unicode.                   |
+| `Exception`           | `error`                           | No exceptions; explicit error handling.       |
+| `Multithreading`      | Goroutines and Channels           | Lightweight threads (concurrency primitives). |
+| `try-catch-finally`   | Explicit error handling with `if` | No `finally`; use `defer`.                    |
+| `Generic Types`       | Generics (`Go 1.18+`)             | Use `interface{}` for older Go versions.      |
 
 ---
 

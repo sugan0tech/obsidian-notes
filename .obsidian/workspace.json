@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07f63a65435ecfdd",
+        "id": "71447ed980d93430",
         "type": "tabs",
         "children": [
           {
-            "id": "b296c23b7651ea08",
+            "id": "28c98694502ef6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/kubernetes/Pods.md",
+                "file": "1 - Rough Notes/Mirror of PI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pods"
-            }
-          },
-          {
-            "id": "10fe6755ffdd9d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/kubernetes/services.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "services"
+              "title": "Mirror of PI"
             }
           }
         ]
@@ -154,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/kubernetes/Pods.md"
+                "file": "1 - Rough Notes/Mirror of PI.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pods"
+              "title": "Outline of Mirror of PI"
             }
           },
           {
@@ -244,45 +230,45 @@
       "print:Print note": false
     }
   },
-  "active": "b296c23b7651ea08",
+  "active": "4b2f4d8352869ded",
   "lastOpenFiles": [
+    "1 - Rough Notes/Deploying Dotnet + keycloak + postgress in single compose.md",
+    "1 - Rough Notes/Mirror of PI.md",
+    "2 - Source Material/CNCF - CBE  on Observablity in Distributed Systems.md",
+    "concepts/web/gRPC.md",
+    "languages/Rust.md",
+    "DevOps/TerraForm/TerraForm.md",
+    "2 - Source Material/content store.md",
+    "DevOps/kubernetes/kustomize.md",
+    "DevOps/kubernetes/Helm.md",
+    "DevOps/kubernetes/K8s security.md",
+    "Pasted image 20241204145759.png",
+    "Pasted image 20241204145537.png",
+    "Pasted image 20241204145436.png",
+    "DevOps/kubernetes/Application LIfecycle Management.md",
+    "DevOps/kubernetes/Monitor & Logging.md",
+    "languages/GO.md",
     "DevOps/kubernetes/services.md",
+    "DevOps/kubernetes/K8s Volumes.md",
+    "Demo's.md",
     "DevOps/kubernetes/Scheduling.md",
-    "DevOps/kubernetes/K8s Controllers.md",
-    "DevOps/kubernetes/k8s namespaces.md",
     "DevOps/kubernetes/Pods.md",
     "DevOps/kubernetes/K8s Architecture.md",
-    "Demo's.md",
+    "DevOps/kubernetes/K8s Controllers.md",
+    "DevOps/kubernetes/k8s namespaces.md",
     "Pasted image 20241127153426.png",
     "DevOps/AWS/EC2.md",
     "2 - Source Material/RBAC in app.md",
     "DevOps/pulumi.md",
     "languages/Haskell.md",
     "DevOps/AWS/VPC.md",
-    "DevOps/AWS/AWS.md",
-    "DevOps/AWS/AWS Monitoring.md",
-    "personal-development-environment/nushell.md",
     "DevOps/kubernetes",
-    "2 - Source Material/CNCF - CBE  on Observablity in Distributed Systems.md",
-    "DevOps/Docker/Docker.md",
-    "DevOps/Docker/Docker Compose.md",
-    "DevOps/Docker/Container LifeTime & Persistent Data.md",
-    "languages/GO.md",
-    "languages/Rust.md",
-    "2 - Source Material/content store.md",
     "Pasted image 20241123101559.png",
     "Pasted image 20241123101434.png",
     "Pasted image 20241123101159.png",
     "Pasted image 20241123100913.png",
     "Pasted image 20241123100610.png",
     "Pasted image 20241123100555.png",
-    "Pasted image 20241123100539.png",
-    "Pasted image 20241123095914.png",
-    "Pasted image 20241123095724.png",
-    "tools/AWK.md",
-    "DevOps/Docker/Docker Swarm.md",
-    "nginx.md",
-    "2 - Source Material/How discords optimizes their web-sockets traffic.md",
     "Untitled.canvas",
     "DevOps/Docker",
     "DevOps/Untitled/Untitled",

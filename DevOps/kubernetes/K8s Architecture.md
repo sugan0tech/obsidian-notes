@@ -176,4 +176,10 @@ flowchart TD
 4. **Scheduler**: Monitors ETCD for pods without node assignments, schedules them to a suitable node, and updates the ETCD.
 5. **Kubelet**: On the selected node, provisions the pod, and updates its status back to ETCD through the API Server.
 
-Copy this code into any Markdown-supported tool or environment that supports Mermaid diagrams, and it will render the flow visually. Let me know if you'd like to refine or expand on this!
+---
+### Components
+- [[services]]
+- [[K8s Controllers]]
+- [[Pods]]
+- [[Scheduling]]
+- [[k8s namespaces]]
