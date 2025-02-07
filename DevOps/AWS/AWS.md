@@ -25,6 +25,5 @@ export AWS_SESSION_TOKEN="your-session-token"
     "Account": "123456789012",
     "Arn": "arn:aws:sts::123456789012:user/your-user-name"
 }
-
 ```
 `

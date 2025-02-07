@@ -85,10 +85,12 @@
 ---
 ## Picking Better Database
 ### Questions to choose the right database based on your architecture:
-	• Read-heavy, write-heavy, or balanced workload? Throughput needs? Will it change, does it need to scale or fluctuate during the day?
-	• How much data to store and for how long? Will it grow? Average object size?How are they accessed?
-	• Data durability? Source of truth for the data?
-	• Latency requirements? Concurrent users?
-	• Data model? How will you query the data? Joins? Structured? Semi-Structured?
-	• Strong schema? More flexibility? Reporting? Search? RDBMS / NoSQL?
-	• License costs? Switch to Cloud Native DB such as Aurora?
+
+
+• Read-heavy, write-heavy, or balanced workload? Throughput needs? Will it change, does it need to scale or fluctuate during the day?
+• How much data to store and for how long? Will it grow? Average object size?How are they accessed?
+• Data durability? Source of truth for the data?
+• Latency requirements? Concurrent users?
+• Data model? How will you query the data? Joins? Structured? Semi-Structured?
+• Strong schema? More flexibility? Reporting? Search? RDBMS / NoSQL?
+• License costs? Switch to Cloud Native DB such as Aurora?

@@ -71,7 +71,7 @@ EC2 - Elastic Compute Cloud
 - ram is written in root EBS volume
 - use cases: long-running process
 - supported instance families `c3, c4, c5, i3, M3, M4, R3, R4, T2, T3`
-- system ram should be <150bb
+- system ram should be <150mb
 - should be not more than 60 days
 
 

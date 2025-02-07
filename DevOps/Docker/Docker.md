@@ -94,7 +94,7 @@ Over time, Docker can accumulate unused data. Pruning commands help maintain a c
 - **`container inspect`**: Display detailed container configuration.
 - **`container stats`**: Show real-time performance stats.
 
-### Accessing the Shell in Containers 🐚
+### Accessing the Shell in Containers 🐚 
 
 - **Start a new container interactively**:
   ```bash
@@ -119,6 +119,14 @@ Over time, Docker can accumulate unused data. Pruning commands help maintain a c
 - [[CentOs]]: Stable and widely used, upstream of Red Hat.
 - [[NIX]]: Configuration-focused, uses Nix package manager for containers.
 
+---
+### Advancement in Docker
+- Docker Init: 
+	- For bootstrapping projects, with given application will generate the required `dockerfile`, `.dockerignore`, `compose.yml`, `readme.docker.md`
+- Docker debug ==requires pro==:
+	- instead of exec with a command, docker can inject those tools and run
+
+	- all will be managed by builtin tool box on host machine, `this can be extendec with nix, allowing to have all of nix packages`
 ---
 ### Other concepts ⏭️
 - [[Docker Compose]]

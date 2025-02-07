@@ -122,14 +122,14 @@ An **AWS Virtual Private Cloud (VPC)** allows you to create a virtual network in
 
 ## Common VPC Scenarios
 
-### 1. **VPC with Public and Private Subnets (NAT Gateway)**
+### 1. VPC with Public and Private Subnets (NAT Gateway)
    - Public Subnet: Web servers, jump boxes.
    - Private Subnet: Databases, application servers.
 
-### 2. **VPC Peering Between Two VPCs**
+### 2. VPC Peering Between Two VPCs
    - VPC A and VPC B communicate directly using private IP addresses.
 
-### 3. **VPC-to-VPC VPN**
+### 3. VPC-to-VPC VPN
    - Two VPCs are connected via a VPN gateway to allow encrypted traffic between them.
 
 ---

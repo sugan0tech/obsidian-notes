@@ -22,11 +22,12 @@ CW: CloudWatch
 	- `LogGroups` : represents an app ( typical )
 		- `LogStream`
 - Encrypted by default
-- can be forwareded to 
+- can be forwarded to 
 	- S3
 	- Kinesis Data Stream
 	- Firehouse
 	- Lambda
+expiration - never, 1 day to 10 yrs, or can be exported
 
 ### Sources
 - SDK
@@ -99,12 +100,12 @@ CW: CloudWatch
 - Stack based Java, .Net, IIS server, db..
 - Includes aws resources
 - Automated dashboard
-- powered by segemaker
+- powered by sagemaker
 
 
 ---
 ### CloudTrail
-- governance, compilance and audit
+- governance, compliance and audit
 - enabled by default
 - logs of `Console, SDK, CLI & AWS Services`
 ![[Pasted image 20241017080704.png]]

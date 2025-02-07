@@ -42,3 +42,20 @@
 	- EC2 instance roles
 	- Lambda function roles
 
+
+### AWS Organizations
+- allows us to manage multiple organization accounts
+	- `main account` - master
+	- `member account` - pees, particular to a organization
+> [!note] Consolidated payment, single payment for all the organization, so with large usage ( i.e with multiple orgs ) we can have large amount of discounts
+
+### SCP 
+
+### I AM Conditions
+
+
+### IAM roles vs Resource policies
+- when we assume a role, we give up the premissions on that user account only with permissions on that particular role. so with a resource policy the principal doesn't have to give up it's permission.
+> [!info] resource based policies is particularly helpful on event bridge, if the target resource based policies ( SNS, SQS, S3, Lambda, Api Gateway )
+
+### IAM policy boundries

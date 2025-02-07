@@ -3,5 +3,6 @@
   "promptDelete": false,
   "foldIndent": true,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments"
 }

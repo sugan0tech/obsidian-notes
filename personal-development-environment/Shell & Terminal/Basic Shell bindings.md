@@ -1,0 +1,1 @@
+Fuzzy Finder - `ctrl + r`
