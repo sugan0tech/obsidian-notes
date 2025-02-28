@@ -1,0 +1,16 @@
+- Math on insert
+	- `ctrl+r+=` and give your math to be pasted in that buffer
+- Convert selected text to 13 old school cipher
+	- `g?`
+- Binary mode & Hexmode
+	- `vim -b {file}` &  to open in hex`%!xxd` to go back to normal ascii `%!xxd -r`
+- To paste output of shell command
+	- `:r! {cmd}` 
+		- `:r! date`
+		- `:r! whoami`
+
+- randome ester egg
+	- `:help 42` a quote form `hitch hiker guide to galaxy` :/
+- Pasting remote http contents  *uses libcurl*
+	- `e {url}`
+- `TOhtml`, it says exactly what id does
